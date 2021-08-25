@@ -1,0 +1,299 @@
+suitability_group_id,suitability_report_id,portfolio_id,constraint_type,lower_bound,upper_bound,value,drift
+36144,443,AM-4202GPD006,assetClass_Equity,0.00,1.00,0.46,False
+36145,443,AM-4202GPD006,assetClass_Fixed Income,0.00,1.00,0.29,False
+36146,443,TAE06008,assetClass_Equity,0.00,1.00,0.47,False
+36147,443,TAE06008,assetClass_Fixed Income,0.00,1.00,0.30,False
+36148,443,TAE06089i,assetClass_Equity,0.00,1.00,0.47,False
+36149,443,TAE06089i,assetClass_Fixed Income,0.00,1.00,0.30,False
+36150,443,TAI09610,assetClass_Equity,0.00,1.00,0.35,False
+36151,443,TAI09610,assetClass_Fixed Income,0.00,1.00,0.11,False
+36152,443,TAI09942,assetClass_Equity,0.00,1.00,0.00,False
+36153,443,TAI09942,assetClass_Fixed Income,0.00,1.00,0.00,False
+36154,443,TAI09976,assetClass_Equity,0.00,1.00,0.47,False
+36155,443,TAI09976,assetClass_Fixed Income,0.00,1.00,0.30,False
+36156,443,TAIPL6023,assetClass_Equity,0.00,1.00,0.35,False
+36157,443,TAIPL6023,assetClass_Fixed Income,0.00,1.00,0.11,False
+36158,443,TAIPL6062,assetClass_Equity,0.00,1.00,0.35,False
+36159,443,TAIPL6062,assetClass_Fixed Income,0.00,1.00,0.10,False
+36160,443,TAIPL6092,assetClass_Equity,0.00,1.00,0.35,False
+36161,443,TAIPL6092,assetClass_Fixed Income,0.00,1.00,0.11,False
+36162,443,TAIPR1074,assetClass_Equity,0.00,1.00,0.47,False
+36163,443,TAIPR1074,assetClass_Fixed Income,0.00,1.00,0.29,False
+36164,443,TAIPR1089,assetClass_Equity,0.00,1.00,0.47,False
+36165,443,TAIPR1089,assetClass_Fixed Income,0.00,1.00,0.30,False
+36166,443,TAIPR1107,assetClass_Equity,0.00,1.00,0.47,False
+36167,443,TAIPR1107,assetClass_Fixed Income,0.00,1.00,0.30,False
+36168,443,TAIPR1116,assetClass_Equity,0.00,1.00,0.47,False
+36169,443,TAIPR1116,assetClass_Fixed Income,0.00,1.00,0.29,False
+36170,443,TAIPR1131,assetClass_Equity,0.00,1.00,0.47,False
+36171,443,TAIPR1131,assetClass_Fixed Income,0.00,1.00,0.30,False
+36172,443,TAIPR1182,assetClass_Equity,0.00,1.00,0.47,False
+36173,443,TAIPR1182,assetClass_Fixed Income,0.00,1.00,0.30,False
+36174,443,TAIPR1197,assetClass_Equity,0.00,1.00,0.46,False
+36175,443,TAIPR1197,assetClass_Fixed Income,0.00,1.00,0.30,False
+36176,443,TAIPR1209,assetClass_Equity,0.00,1.00,0.47,False
+36177,443,TAIPR1209,assetClass_Fixed Income,0.00,1.00,0.29,False
+36178,443,TAM050063B,assetClass_Equity,0.00,1.00,0.47,False
+36179,443,TAM050063B,assetClass_Fixed Income,0.00,1.00,0.29,False
+36180,443,TAM050073,assetClass_Equity,0.00,1.00,0.47,False
+36181,443,TAM050073,assetClass_Fixed Income,0.00,1.00,0.29,False
+36182,443,TAM050430,assetClass_Equity,0.00,1.00,0.46,False
+36183,443,TAM050430,assetClass_Fixed Income,0.00,1.00,0.30,False
+36184,443,TAM050451,assetClass_Equity,0.00,1.00,0.18,False
+36185,443,TAM050451,assetClass_Fixed Income,0.00,1.00,0.08,False
+36186,443,TAM050471,assetClass_Equity,0.00,1.00,0.00,False
+36187,443,TAM050471,assetClass_Fixed Income,0.00,1.00,0.05,False
+36188,443,TAM050472,assetClass_Equity,0.00,1.00,0.00,False
+36189,443,TAM050472,assetClass_Fixed Income,0.00,1.00,0.00,False
+36190,443,TAM050479,assetClass_Equity,0.00,1.00,0.47,False
+36191,443,TAM050479,assetClass_Fixed Income,0.00,1.00,0.30,False
+36192,443,TAM050489,assetClass_Equity,0.00,1.00,0.47,False
+36193,443,TAM050489,assetClass_Fixed Income,0.00,1.00,0.30,False
+36194,443,TAM050506,assetClass_Equity,0.00,1.00,0.00,False
+36195,443,TAM050506,assetClass_Fixed Income,0.00,1.00,0.00,False
+36196,443,TAM050525,assetClass_Equity,0.00,1.00,0.47,False
+36197,443,TAM050525,assetClass_Fixed Income,0.00,1.00,0.29,False
+36198,443,TAM050530i,assetClass_Equity,0.00,1.00,0.47,False
+36199,443,TAM050530i,assetClass_Fixed Income,0.00,1.00,0.30,False
+36200,443,TAM050544,assetClass_Equity,0.00,1.00,0.00,False
+36201,443,TAM050544,assetClass_Fixed Income,0.00,1.00,0.00,False
+36202,443,TAM050556,assetClass_Equity,0.00,1.00,0.47,False
+36203,443,TAM050556,assetClass_Fixed Income,0.00,1.00,0.30,False
+36204,443,TAM050562,assetClass_Equity,0.00,1.00,0.48,False
+36205,443,TAM050562,assetClass_Fixed Income,0.00,1.00,0.30,False
+36206,443,TAM050566,assetClass_Equity,0.00,1.00,0.47,False
+36207,443,TAM050566,assetClass_Fixed Income,0.00,1.00,0.29,False
+36208,443,TAM050571,assetClass_Equity,0.00,1.00,0.46,False
+36209,443,TAM050571,assetClass_Fixed Income,0.00,1.00,0.29,False
+36210,443,TAM050573,assetClass_Equity,0.00,1.00,0.47,False
+36211,443,TAM050573,assetClass_Fixed Income,0.00,1.00,0.30,False
+36212,443,TAM050587,assetClass_Equity,0.00,1.00,0.47,False
+36213,443,TAM050587,assetClass_Fixed Income,0.00,1.00,0.29,False
+36214,443,TAM050605,assetClass_Equity,0.00,1.00,0.47,False
+36215,443,TAM050605,assetClass_Fixed Income,0.00,1.00,0.29,False
+36216,443,TAM050615,assetClass_Equity,0.00,1.00,0.47,False
+36217,443,TAM050615,assetClass_Fixed Income,0.00,1.00,0.29,False
+36218,443,TAM050627,assetClass_Equity,0.00,1.00,0.47,False
+36219,443,TAM050627,assetClass_Fixed Income,0.00,1.00,0.30,False
+36220,443,TAM05062Ti,assetClass_Equity,0.00,1.00,0.47,False
+36221,443,TAM05062Ti,assetClass_Fixed Income,0.00,1.00,0.30,False
+36222,443,TAM050647,assetClass_Equity,0.00,1.00,0.47,False
+36223,443,TAM050647,assetClass_Fixed Income,0.00,1.00,0.30,False
+36224,443,TAM050650,assetClass_Equity,0.00,1.00,0.46,False
+36225,443,TAM050650,assetClass_Fixed Income,0.00,1.00,0.29,False
+36226,443,TAM050658,assetClass_Equity,0.00,1.00,0.47,False
+36227,443,TAM050658,assetClass_Fixed Income,0.00,1.00,0.30,False
+36228,443,TAM050659,assetClass_Equity,0.00,1.00,0.46,False
+36229,443,TAM050659,assetClass_Fixed Income,0.00,1.00,0.30,False
+36230,443,TAM050661,assetClass_Equity,0.00,1.00,0.49,False
+36231,443,TAM050661,assetClass_Fixed Income,0.00,1.00,0.31,False
+36232,443,TAM050669,assetClass_Equity,0.00,1.00,0.47,False
+36233,443,TAM050669,assetClass_Fixed Income,0.00,1.00,0.30,False
+36234,443,TAM050671i,assetClass_Equity,0.00,1.00,0.47,False
+36235,443,TAM050671i,assetClass_Fixed Income,0.00,1.00,0.30,False
+36236,443,TAM050673,assetClass_Equity,0.00,1.00,0.48,False
+36237,443,TAM050673,assetClass_Fixed Income,0.00,1.00,0.30,False
+36238,443,TAM050674,assetClass_Equity,0.00,1.00,0.47,False
+36239,443,TAM050674,assetClass_Fixed Income,0.00,1.00,0.30,False
+36240,443,TAM050675,assetClass_Equity,0.00,1.00,0.47,False
+36241,443,TAM050675,assetClass_Fixed Income,0.00,1.00,0.30,False
+36242,443,TAM050676,assetClass_Equity,0.00,1.00,0.45,False
+36243,443,TAM050676,assetClass_Fixed Income,0.00,1.00,0.30,False
+36244,443,TAM05067TG,assetClass_Equity,0.00,1.00,0.47,False
+36245,443,TAM05067TG,assetClass_Fixed Income,0.00,1.00,0.30,False
+36246,443,TAM05067Ti,assetClass_Equity,0.00,1.00,0.47,False
+36247,443,TAM05067Ti,assetClass_Fixed Income,0.00,1.00,0.29,False
+36248,443,TAM050682,assetClass_Equity,0.00,1.00,0.46,False
+36249,443,TAM050682,assetClass_Fixed Income,0.00,1.00,0.29,False
+36250,443,TAM050684,assetClass_Equity,0.00,1.00,0.47,False
+36251,443,TAM050684,assetClass_Fixed Income,0.00,1.00,0.29,False
+36252,443,TAM05068T,assetClass_Equity,0.00,1.00,0.46,False
+36253,443,TAM05068T,assetClass_Fixed Income,0.00,1.00,0.29,False
+36254,443,TAM05068Ti,assetClass_Equity,0.00,1.00,0.46,False
+36255,443,TAM05068Ti,assetClass_Fixed Income,0.00,1.00,0.29,False
+36256,443,TAM050702,assetClass_Equity,0.00,1.00,0.46,False
+36257,443,TAM050702,assetClass_Fixed Income,0.00,1.00,0.29,False
+36258,443,TAM050705,assetClass_Equity,0.00,1.00,0.47,False
+36259,443,TAM050705,assetClass_Fixed Income,0.00,1.00,0.29,False
+36260,443,TAM050706,assetClass_Equity,0.00,1.00,0.47,False
+36261,443,TAM050706,assetClass_Fixed Income,0.00,1.00,0.29,False
+36262,443,TAM05070T,assetClass_Equity,0.00,1.00,0.47,False
+36263,443,TAM05070T,assetClass_Fixed Income,0.00,1.00,0.29,False
+36264,443,TAM050715,assetClass_Equity,0.00,1.00,0.47,False
+36265,443,TAM050715,assetClass_Fixed Income,0.00,1.00,0.29,False
+36266,443,TAM05071T,assetClass_Equity,0.00,1.00,0.46,False
+36267,443,TAM05071T,assetClass_Fixed Income,0.00,1.00,0.29,False
+36268,443,TAM05071TE,assetClass_Equity,0.00,1.00,0.47,False
+36269,443,TAM05071TE,assetClass_Fixed Income,0.00,1.00,0.29,False
+36270,443,TAM05071Ti,assetClass_Equity,0.00,1.00,0.46,False
+36271,443,TAM05071Ti,assetClass_Fixed Income,0.00,1.00,0.29,False
+36272,443,TAM050721,assetClass_Equity,0.00,1.00,0.47,False
+36273,443,TAM050721,assetClass_Fixed Income,0.00,1.00,0.30,False
+36274,443,TAM050728,assetClass_Equity,0.00,1.00,0.47,False
+36275,443,TAM050728,assetClass_Fixed Income,0.00,1.00,0.29,False
+36276,443,TAM05072T,assetClass_Equity,0.00,1.00,0.47,False
+36277,443,TAM05072T,assetClass_Fixed Income,0.00,1.00,0.30,False
+36278,443,TAM05072TA,assetClass_Equity,0.00,1.00,0.48,False
+36279,443,TAM05072TA,assetClass_Fixed Income,0.00,1.00,0.30,False
+36280,443,TAM050730,assetClass_Equity,0.00,1.00,0.47,False
+36281,443,TAM050730,assetClass_Fixed Income,0.00,1.00,0.30,False
+36282,443,TAM050734,assetClass_Equity,0.00,1.00,0.47,False
+36283,443,TAM050734,assetClass_Fixed Income,0.00,1.00,0.30,False
+36284,443,TAM05073Ti,assetClass_Equity,0.00,1.00,0.46,False
+36285,443,TAM05073Ti,assetClass_Fixed Income,0.00,1.00,0.30,False
+36286,443,TAM050749,assetClass_Equity,0.00,1.00,0.47,False
+36287,443,TAM050749,assetClass_Fixed Income,0.00,1.00,0.30,False
+36288,443,TAM050750,assetClass_Equity,0.00,1.00,0.47,False
+36289,443,TAM050750,assetClass_Fixed Income,0.00,1.00,0.30,False
+36290,443,TAM050752,assetClass_Equity,0.00,1.00,0.47,False
+36291,443,TAM050752,assetClass_Fixed Income,0.00,1.00,0.29,False
+36292,443,TAM050756,assetClass_Equity,0.00,1.00,0.47,False
+36293,443,TAM050756,assetClass_Fixed Income,0.00,1.00,0.30,False
+36294,443,TAM050759,assetClass_Equity,0.00,1.00,0.47,False
+36295,443,TAM050759,assetClass_Fixed Income,0.00,1.00,0.30,False
+36296,443,TAM05075T,assetClass_Equity,0.00,1.00,0.47,False
+36297,443,TAM05075T,assetClass_Fixed Income,0.00,1.00,0.29,False
+36298,443,TAM050762,assetClass_Equity,0.00,1.00,0.47,False
+36299,443,TAM050762,assetClass_Fixed Income,0.00,1.00,0.30,False
+36300,443,TAM050768,assetClass_Equity,0.00,1.00,0.47,False
+36301,443,TAM050768,assetClass_Fixed Income,0.00,1.00,0.30,False
+36302,443,TAM050769i,assetClass_Equity,0.00,1.00,0.47,False
+36303,443,TAM050769i,assetClass_Fixed Income,0.00,1.00,0.29,False
+36304,443,TAM05077T,assetClass_Equity,0.00,1.00,0.48,False
+36305,443,TAM05077T,assetClass_Fixed Income,0.00,1.00,0.31,False
+36306,443,TAM05077TA,assetClass_Equity,0.00,1.00,0.47,False
+36307,443,TAM05077TA,assetClass_Fixed Income,0.00,1.00,0.30,False
+36308,443,TAM050782,assetClass_Equity,0.00,1.00,0.47,False
+36309,443,TAM050782,assetClass_Fixed Income,0.00,1.00,0.30,False
+36310,443,TAM05078TA,assetClass_Equity,0.00,1.00,0.35,False
+36311,443,TAM05078TA,assetClass_Fixed Income,0.00,1.00,0.10,False
+36312,443,TAM050790,assetClass_Equity,0.00,1.00,0.35,False
+36313,443,TAM050790,assetClass_Fixed Income,0.00,1.00,0.05,False
+36314,443,TAM050795,assetClass_Equity,0.00,1.00,0.13,False
+36315,443,TAM050795,assetClass_Fixed Income,0.00,1.00,0.05,False
+36316,443,TAM050797,assetClass_Equity,0.00,1.00,0.47,False
+36317,443,TAM050797,assetClass_Fixed Income,0.00,1.00,0.30,False
+36318,443,TAM05079T,assetClass_Equity,0.00,1.00,0.47,False
+36319,443,TAM05079T,assetClass_Fixed Income,0.00,1.00,0.30,False
+36320,443,TAM050804,assetClass_Equity,0.00,1.00,0.48,False
+36321,443,TAM050804,assetClass_Fixed Income,0.00,1.00,0.31,False
+36322,443,TAM050811,assetClass_Equity,0.00,1.00,0.47,False
+36323,443,TAM050811,assetClass_Fixed Income,0.00,1.00,0.29,False
+36324,443,TAM050816,assetClass_Equity,0.00,1.00,0.46,False
+36325,443,TAM050816,assetClass_Fixed Income,0.00,1.00,0.29,False
+36326,443,TAM05081T,assetClass_Equity,0.00,1.00,0.47,False
+36327,443,TAM05081T,assetClass_Fixed Income,0.00,1.00,0.29,False
+36328,443,TAM050829i,assetClass_Equity,0.00,1.00,0.46,False
+36329,443,TAM050829i,assetClass_Fixed Income,0.00,1.00,0.29,False
+36330,443,TAM050833,assetClass_Equity,0.00,1.00,0.45,False
+36331,443,TAM050833,assetClass_Fixed Income,0.00,1.00,0.30,False
+36332,443,TAM050839,assetClass_Equity,0.00,1.00,0.46,False
+36333,443,TAM050839,assetClass_Fixed Income,0.00,1.00,0.30,False
+36334,443,TAM050840,assetClass_Equity,0.00,1.00,0.46,False
+36335,443,TAM050840,assetClass_Fixed Income,0.00,1.00,0.30,False
+36336,443,TAM050849,assetClass_Equity,0.00,1.00,0.47,False
+36337,443,TAM050849,assetClass_Fixed Income,0.00,1.00,0.30,False
+36338,443,TAM050850,assetClass_Equity,0.00,1.00,0.47,False
+36339,443,TAM050850,assetClass_Fixed Income,0.00,1.00,0.29,False
+36340,443,TAM050852,assetClass_Equity,0.00,1.00,0.47,False
+36341,443,TAM050852,assetClass_Fixed Income,0.00,1.00,0.30,False
+36342,443,TAM050854,assetClass_Equity,0.00,1.00,0.47,False
+36343,443,TAM050854,assetClass_Fixed Income,0.00,1.00,0.30,False
+36344,443,TAM050855,assetClass_Equity,0.00,1.00,0.47,False
+36345,443,TAM050855,assetClass_Fixed Income,0.00,1.00,0.30,False
+36346,443,TAM050862,assetClass_Equity,0.00,1.00,0.47,False
+36347,443,TAM050862,assetClass_Fixed Income,0.00,1.00,0.29,False
+36348,443,TAM050865,assetClass_Equity,0.00,1.00,0.35,False
+36349,443,TAM050865,assetClass_Fixed Income,0.00,1.00,0.10,False
+36350,443,TAM050868,assetClass_Equity,0.00,1.00,0.47,False
+36351,443,TAM050868,assetClass_Fixed Income,0.00,1.00,0.29,False
+36352,443,TAM05086T,assetClass_Equity,0.00,1.00,0.47,False
+36353,443,TAM05086T,assetClass_Fixed Income,0.00,1.00,0.29,False
+36354,443,TAM050870,assetClass_Equity,0.00,1.00,0.47,False
+36355,443,TAM050870,assetClass_Fixed Income,0.00,1.00,0.30,False
+36356,443,TAM050872,assetClass_Equity,0.00,1.00,0.47,False
+36357,443,TAM050872,assetClass_Fixed Income,0.00,1.00,0.30,False
+36358,443,TAM050882,assetClass_Equity,0.00,1.00,0.47,False
+36359,443,TAM050882,assetClass_Fixed Income,0.00,1.00,0.30,False
+36360,443,TAM050883,assetClass_Equity,0.00,1.00,0.16,False
+36361,443,TAM050883,assetClass_Fixed Income,0.00,1.00,0.13,False
+36362,443,TAM050895,assetClass_Equity,0.00,1.00,0.47,False
+36363,443,TAM050895,assetClass_Fixed Income,0.00,1.00,0.30,False
+36364,443,TAM050897,assetClass_Equity,0.00,1.00,0.47,False
+36365,443,TAM050897,assetClass_Fixed Income,0.00,1.00,0.30,False
+36366,443,TAM050899,assetClass_Equity,0.00,1.00,0.47,False
+36367,443,TAM050899,assetClass_Fixed Income,0.00,1.00,0.30,False
+36368,443,TAM050901,assetClass_Equity,0.00,1.00,0.47,False
+36369,443,TAM050901,assetClass_Fixed Income,0.00,1.00,0.28,False
+36370,443,TAM050903,assetClass_Equity,0.00,1.00,0.35,False
+36371,443,TAM050903,assetClass_Fixed Income,0.00,1.00,0.10,False
+36372,443,TAM050904,assetClass_Equity,0.00,1.00,0.47,False
+36373,443,TAM050904,assetClass_Fixed Income,0.00,1.00,0.29,False
+36374,443,TAM050910,assetClass_Equity,0.00,1.00,0.48,False
+36375,443,TAM050910,assetClass_Fixed Income,0.00,1.00,0.30,False
+36376,443,TAM050917i,assetClass_Equity,0.00,1.00,0.47,False
+36377,443,TAM050917i,assetClass_Fixed Income,0.00,1.00,0.29,False
+36378,443,TAM05091T,assetClass_Equity,0.00,1.00,0.47,False
+36379,443,TAM05091T,assetClass_Fixed Income,0.00,1.00,0.30,False
+36380,443,TAM05091TA,assetClass_Equity,0.00,1.00,0.47,False
+36381,443,TAM05091TA,assetClass_Fixed Income,0.00,1.00,0.30,False
+36382,443,TAM05092T,assetClass_Equity,0.00,1.00,0.07,False
+36383,443,TAM05092T,assetClass_Fixed Income,0.00,1.00,0.05,False
+36384,443,TAM05092Ti,assetClass_Equity,0.00,1.00,0.47,False
+36385,443,TAM05092Ti,assetClass_Fixed Income,0.00,1.00,0.30,False
+36386,443,TAM050932,assetClass_Equity,0.00,1.00,0.46,False
+36387,443,TAM050932,assetClass_Fixed Income,0.00,1.00,0.29,False
+36388,443,TAM050934,assetClass_Equity,0.00,1.00,0.47,False
+36389,443,TAM050934,assetClass_Fixed Income,0.00,1.00,0.29,False
+36390,443,TAM050935,assetClass_Equity,0.00,1.00,0.46,False
+36391,443,TAM050935,assetClass_Fixed Income,0.00,1.00,0.29,False
+36392,443,TAM050942,assetClass_Equity,0.00,1.00,0.47,False
+36393,443,TAM050942,assetClass_Fixed Income,0.00,1.00,0.29,False
+36394,443,TAM050943,assetClass_Equity,0.00,1.00,0.47,False
+36395,443,TAM050943,assetClass_Fixed Income,0.00,1.00,0.29,False
+36396,443,TAM05106TA,assetClass_Equity,0.00,1.00,0.49,False
+36397,443,TAM05106TA,assetClass_Fixed Income,0.00,1.00,0.31,False
+36398,443,TAM05108TE,assetClass_Equity,0.00,1.00,0.47,False
+36399,443,TAM05108TE,assetClass_Fixed Income,0.00,1.00,0.30,False
+36400,443,TAM05112TA,assetClass_Equity,0.00,1.00,0.47,False
+36401,443,TAM05112TA,assetClass_Fixed Income,0.00,1.00,0.29,False
+36402,443,TAM05115Ti,assetClass_Equity,0.00,1.00,0.46,False
+36403,443,TAM05115Ti,assetClass_Fixed Income,0.00,1.00,0.29,False
+36404,443,TAM05117Ti,assetClass_Equity,0.00,1.00,0.47,False
+36405,443,TAM05117Ti,assetClass_Fixed Income,0.00,1.00,0.29,False
+36406,443,TAM05118Ti,assetClass_Equity,0.00,1.00,0.46,False
+36407,443,TAM05118Ti,assetClass_Fixed Income,0.00,1.00,0.29,False
+36408,443,TAM05119T,assetClass_Equity,0.00,1.00,0.30,False
+36409,443,TAM05119T,assetClass_Fixed Income,0.00,1.00,0.11,False
+36410,443,TAM05119Ti,assetClass_Equity,0.00,1.00,0.46,False
+36411,443,TAM05119Ti,assetClass_Fixed Income,0.00,1.00,0.29,False
+36412,443,TAM05121TA,assetClass_Equity,0.00,1.00,0.47,False
+36413,443,TAM05121TA,assetClass_Fixed Income,0.00,1.00,0.29,False
+36414,443,TAM05123Ti,assetClass_Equity,0.00,1.00,0.46,False
+36415,443,TAM05123Ti,assetClass_Fixed Income,0.00,1.00,0.29,False
+36416,443,TAM05124Ti,assetClass_Equity,0.00,1.00,0.46,False
+36417,443,TAM05124Ti,assetClass_Fixed Income,0.00,1.00,0.29,False
+36418,443,TAM05128TA,assetClass_Equity,0.00,1.00,0.47,False
+36419,443,TAM05128TA,assetClass_Fixed Income,0.00,1.00,0.29,False
+36420,443,TAM05159T,assetClass_Equity,0.00,1.00,0.47,False
+36421,443,TAM05159T,assetClass_Fixed Income,0.00,1.00,0.29,False
+36422,443,TAM05198T,assetClass_Equity,0.00,1.00,0.00,False
+36423,443,TAM05198T,assetClass_Fixed Income,0.00,1.00,0.00,False
+36424,443,TAM05212H,assetClass_Equity,0.00,1.00,0.43,False
+36425,443,TAM05212H,assetClass_Fixed Income,0.00,1.00,0.31,False
+36426,443,TAM05315F,assetClass_Equity,0.00,1.00,0.48,False
+36427,443,TAM05315F,assetClass_Fixed Income,0.00,1.00,0.31,False
+36428,443,TAM05371F,assetClass_Equity,0.00,1.00,0.35,False
+36429,443,TAM05371F,assetClass_Fixed Income,0.00,1.00,0.11,False
+36430,443,TAM05594T,assetClass_Equity,0.00,1.00,0.47,False
+36431,443,TAM05594T,assetClass_Fixed Income,0.00,1.00,0.29,False
+36432,443,TAM06066C,assetClass_Equity,0.00,1.00,0.34,False
+36433,443,TAM06066C,assetClass_Fixed Income,0.00,1.00,0.10,False
+36434,443,TAMC0701C,assetClass_Equity,0.00,1.00,0.47,False
+36435,443,TAMC0701C,assetClass_Fixed Income,0.00,1.00,0.30,False
+36436,443,TAMC07107A,assetClass_Equity,0.00,1.00,0.47,False
+36437,443,TAMC07107A,assetClass_Fixed Income,0.00,1.00,0.30,False
+36438,443,TAMC0717A,assetClass_Equity,0.00,1.00,0.47,False
+36439,443,TAMC0717A,assetClass_Fixed Income,0.00,1.00,0.30,False
+36440,443,US00002225,assetClass_Equity,0.00,1.00,0.46,False
+36441,443,US00002225,assetClass_Fixed Income,0.00,1.00,0.29,False

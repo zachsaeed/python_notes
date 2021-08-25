@@ -1,0 +1,297 @@
+suitability_summary_id,suitability_report_id,portfolio_id,allocation_model_id,has_drifted,description,rebalanced
+35243,443,AM-4202GPD006,R3 - PREMIER Balanced GBP,True,", tracking error drift",False
+35244,443,AM-4202GPD007,R4 - PREMIER Growth GBP,False,,False
+35245,443,FH00002223,R5 - PREMIER Adventurous GBP,False,,False
+35246,443,JM00002226,R6 - PREMIER Speculative GBP,False,,False
+35247,443,PD00002228,R1 - PREMIER Defensive GBP,False,,False
+35248,443,TAE06008,R3 - PREMIER Balanced GBP,False,,False
+35249,443,TAE06089i,R3 - PREMIER Balanced GBP,False,,False
+35250,443,TAI09610,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35251,443,TAI09622,R2 - PREMIER Cautious GBP,True,", risk drift, tracking error drift",False
+35252,443,TAI09632,R2 - PREMIER Cautious GBP,True,", risk drift, tracking error drift",False
+35253,443,TAI09636,R2 - PREMIER Cautious GBP,True,", risk drift, tracking error drift",False
+35254,443,TAI09942,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35255,443,TAI09956,R2 - PREMIER Cautious GBP,False,,False
+35256,443,TAI09958,R4 - PREMIER Growth GBP,False,,False
+35257,443,TAI09976,R3 - PREMIER Balanced GBP,False,,False
+35258,443,TAIPL6023,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35259,443,TAIPL6032,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35260,443,TAIPL6038,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35261,443,TAIPL6044,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35262,443,TAIPL6044A,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35263,443,TAIPL6062,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35264,443,TAIPL6092,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35265,443,TAIPL6095,R2 - PREMIER Cautious GBP,True,", risk drift, tracking error drift",False
+35266,443,TAIPR1003,R4 - PREMIER Growth GBP,False,,False
+35267,443,TAIPR1009,R4 - PREMIER Growth GBP,False,,False
+35268,443,TAIPR1018,R4 - PREMIER Growth GBP,False,,False
+35269,443,TAIPR1041,R4 - PREMIER Growth GBP,False,,False
+35270,443,TAIPR1047,R2 - PREMIER Cautious GBP,False,,False
+35271,443,TAIPR1050,R5 - PREMIER Adventurous GBP,False,,False
+35272,443,TAIPR1068,R2 - PREMIER Cautious GBP,False,,False
+35273,443,TAIPR1074,R3 - PREMIER Balanced GBP,False,,False
+35274,443,TAIPR1089,R3 - PREMIER Balanced GBP,False,,False
+35275,443,TAIPR1104,R5 - PREMIER Adventurous GBP,False,,False
+35276,443,TAIPR1107,R3 - PREMIER Balanced GBP,False,,False
+35277,443,TAIPR1110,R2 - PREMIER Cautious GBP,True,", tracking error drift",False
+35278,443,TAIPR1116,R3 - PREMIER Balanced GBP,False,,False
+35279,443,TAIPR1131,R3 - PREMIER Balanced GBP,False,,False
+35280,443,TAIPR1153,R4 - PREMIER Growth GBP,False,,False
+35281,443,TAIPR1160,R4 - PREMIER Growth GBP,False,,False
+35282,443,TAIPR1163,R2 - PREMIER Cautious GBP,False,,False
+35283,443,TAIPR1182,R3 - PREMIER Balanced GBP,False,,False
+35284,443,TAIPR1197,R3 - PREMIER Balanced GBP,False,,False
+35285,443,TAIPR1209,R3 - PREMIER Balanced GBP,False,,False
+35286,443,TAIPR1218,R4 - PREMIER Growth GBP,False,,False
+35287,443,TAIPR1221,R4 - PREMIER Growth GBP,False,,False
+35288,443,TAL00001Ji,R5 - PREMIER Adventurous GBP,False,,False
+35289,443,TAL00002Ji,R5 - PREMIER Adventurous GBP,False,,False
+35290,443,TAM050043i,R4 - PREMIER Growth GBP,False,,False
+35291,443,TAM050063B,R3 - PREMIER Balanced GBP,False,,False
+35292,443,TAM050073,R3 - PREMIER Balanced GBP,False,,False
+35293,443,TAM050075,R4 - PREMIER Growth GBP,False,,False
+35294,443,TAM050159D,R2 - PREMIER Cautious GBP,False,,False
+35295,443,TAM050159F,R2 - PREMIER Cautious GBP,False,,False
+35296,443,TAM050159G,R2 - PREMIER Cautious GBP,False,,False
+35297,443,TAM050159H,R2 - PREMIER Cautious GBP,True,", risk drift, tracking error drift",False
+35298,443,TAM050159K,R2 - PREMIER Cautious GBP,False,,False
+35299,443,TAM050159M,R2 - PREMIER Cautious GBP,False,,False
+35300,443,TAM050424,R2 - PREMIER Cautious GBP,True,", risk drift, tracking error drift",False
+35301,443,TAM050430,R3 - PREMIER Balanced GBP,False,,False
+35302,443,TAM050444,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35303,443,TAM050451,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35304,443,TAM050456,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35305,443,TAM050463,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35306,443,TAM050464,R6 - PREMIER Speculative GBP,True,", risk drift, tracking error drift",False
+35307,443,TAM050471,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35308,443,TAM050472,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35309,443,TAM050474,R4 - PREMIER Growth GBP,False,,False
+35310,443,TAM050476,R2 - PREMIER Cautious GBP,False,,False
+35311,443,TAM050479,R3 - PREMIER Balanced GBP,False,,False
+35312,443,TAM050481,R5 - PREMIER Adventurous GBP,False,,False
+35313,443,TAM050489,R3 - PREMIER Balanced GBP,False,,False
+35314,443,TAM050490,R5 - PREMIER Adventurous GBP,False,,False
+35315,443,TAM050499,R5 - PREMIER Adventurous GBP,False,,False
+35316,443,TAM050506,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35317,443,TAM050507,R4 - PREMIER Growth GBP,False,,False
+35318,443,TAM050509,R4 - PREMIER Growth GBP,False,,False
+35319,443,TAM050512,R4 - PREMIER Growth GBP,False,,False
+35320,443,TAM050519,R1 - PREMIER Defensive GBP,False,,False
+35321,443,TAM050525,R3 - PREMIER Balanced GBP,False,,False
+35322,443,TAM050526,R4 - PREMIER Growth GBP,False,,False
+35323,443,TAM050530i,R3 - PREMIER Balanced GBP,False,,False
+35324,443,TAM050531i,R5 - PREMIER Adventurous GBP,False,,False
+35325,443,TAM050534,R4 - PREMIER Growth GBP,False,,False
+35326,443,TAM050536,R5 - PREMIER Adventurous GBP,False,,False
+35327,443,TAM050541,R2 - PREMIER Cautious GBP,False,,False
+35328,443,TAM050543,R4 - PREMIER Growth GBP,False,,False
+35329,443,TAM050544,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35330,443,TAM050545,R4 - PREMIER Growth GBP,False,,False
+35331,443,TAM050546,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35332,443,TAM050551,R2 - PREMIER Cautious GBP,False,,False
+35333,443,TAM050556,R3 - PREMIER Balanced GBP,False,,False
+35334,443,TAM050557,R2 - PREMIER Cautious GBP,False,,False
+35335,443,TAM050560,R4 - PREMIER Growth GBP,False,,False
+35336,443,TAM050562,R3 - PREMIER Balanced GBP,False,,False
+35337,443,TAM050566,R3 - PREMIER Balanced GBP,False,,False
+35338,443,TAM050567,R5 - PREMIER Adventurous GBP,False,,False
+35339,443,TAM050568,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35340,443,TAM050570,R1 - PREMIER Defensive GBP,False,,False
+35341,443,TAM050571,R3 - PREMIER Balanced GBP,False,,False
+35342,443,TAM050573,R3 - PREMIER Balanced GBP,False,,False
+35343,443,TAM050587,R3 - PREMIER Balanced GBP,False,,False
+35344,443,TAM050591,R1 - PREMIER Defensive GBP,False,,False
+35345,443,TAM050592,R2 - PREMIER Cautious GBP,False,,False
+35346,443,TAM050601,R2 - PREMIER Cautious GBP,False,,False
+35347,443,TAM050605,R3 - PREMIER Balanced GBP,False,,False
+35348,443,TAM050613,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35349,443,TAM050615,R3 - PREMIER Balanced GBP,False,,False
+35350,443,TAM050616,R4 - PREMIER Growth GBP,False,,False
+35351,443,TAM050617i,R4 - PREMIER Growth GBP,False,,False
+35352,443,TAM050618,R4 - PREMIER Growth GBP,False,,False
+35353,443,TAM050627,R3 - PREMIER Balanced GBP,False,,False
+35354,443,TAM05062Ti,R3 - PREMIER Balanced GBP,False,,False
+35355,443,TAM050638,R1 - PREMIER Defensive GBP,False,,False
+35356,443,TAM050645i,R2 - PREMIER Cautious GBP,False,,False
+35357,443,TAM050647,R3 - PREMIER Balanced GBP,False,,False
+35358,443,TAM050648,R4 - PREMIER Growth GBP,False,,False
+35359,443,TAM050650,R3 - PREMIER Balanced GBP,False,,False
+35360,443,TAM050656,R4 - PREMIER Growth GBP,False,,False
+35361,443,TAM050658,R3 - PREMIER Balanced GBP,False,,False
+35362,443,TAM050659,R3 - PREMIER Balanced GBP,False,,False
+35363,443,TAM050660,R2 - PREMIER Cautious GBP,True,", tracking error drift",False
+35364,443,TAM050661,R3 - PREMIER Balanced GBP,False,,False
+35365,443,TAM050662,R2 - PREMIER Cautious GBP,False,,False
+35366,443,TAM050669,R3 - PREMIER Balanced GBP,False,,False
+35367,443,TAM050671i,R3 - PREMIER Balanced GBP,False,,False
+35368,443,TAM050673,R3 - PREMIER Balanced GBP,False,,False
+35369,443,TAM050674,R3 - PREMIER Balanced GBP,False,,False
+35370,443,TAM050675,R3 - PREMIER Balanced GBP,False,,False
+35371,443,TAM050676,R3 - PREMIER Balanced GBP,False,,False
+35372,443,TAM050677,R2 - PREMIER Cautious GBP,False,,False
+35373,443,TAM05067TG,R3 - PREMIER Balanced GBP,False,,False
+35374,443,TAM05067Ti,R3 - PREMIER Balanced GBP,False,,False
+35375,443,TAM050681,R4 - PREMIER Growth GBP,False,,False
+35376,443,TAM050682,R3 - PREMIER Balanced GBP,False,,False
+35377,443,TAM050684,R3 - PREMIER Balanced GBP,False,,False
+35378,443,TAM050686,R4 - PREMIER Growth GBP,False,,False
+35379,443,TAM05068T,R3 - PREMIER Balanced GBP,False,,False
+35380,443,TAM05068Ti,R3 - PREMIER Balanced GBP,False,,False
+35381,443,TAM050696,R4 - PREMIER Growth GBP,False,,False
+35382,443,TAM050702,R3 - PREMIER Balanced GBP,False,,False
+35383,443,TAM050705,R3 - PREMIER Balanced GBP,False,,False
+35384,443,TAM050706,R3 - PREMIER Balanced GBP,False,,False
+35385,443,TAM05070T,R3 - PREMIER Balanced GBP,False,,False
+35386,443,TAM050711,R4 - PREMIER Growth GBP,False,,False
+35387,443,TAM050715,R3 - PREMIER Balanced GBP,False,,False
+35388,443,TAM05071T,R3 - PREMIER Balanced GBP,False,,False
+35389,443,TAM05071TE,R3 - PREMIER Balanced GBP,False,,False
+35390,443,TAM05071Ti,R3 - PREMIER Balanced GBP,False,,False
+35391,443,TAM050721,R3 - PREMIER Balanced GBP,False,,False
+35392,443,TAM050722,R2 - PREMIER Cautious GBP,False,,False
+35393,443,TAM050728,R3 - PREMIER Balanced GBP,False,,False
+35394,443,TAM05072T,R3 - PREMIER Balanced GBP,False,,False
+35395,443,TAM05072TA,R3 - PREMIER Balanced GBP,False,,False
+35396,443,TAM050730,R3 - PREMIER Balanced GBP,False,,False
+35397,443,TAM050731,R2 - PREMIER Cautious GBP,False,,False
+35398,443,TAM050734,R3 - PREMIER Balanced GBP,False,,False
+35399,443,TAM05073Ti,R3 - PREMIER Balanced GBP,False,,False
+35400,443,TAM050749,R3 - PREMIER Balanced GBP,False,,False
+35401,443,TAM050750,R3 - PREMIER Balanced GBP,False,,False
+35402,443,TAM050752,R3 - PREMIER Balanced GBP,False,,False
+35403,443,TAM050756,R3 - PREMIER Balanced GBP,False,,False
+35404,443,TAM050759,R3 - PREMIER Balanced GBP,False,,False
+35405,443,TAM05075T,R3 - PREMIER Balanced GBP,False,,False
+35406,443,TAM050762,R3 - PREMIER Balanced GBP,False,,False
+35407,443,TAM050768,R3 - PREMIER Balanced GBP,False,,False
+35408,443,TAM050769i,R3 - PREMIER Balanced GBP,False,,False
+35409,443,TAM05077T,R3 - PREMIER Balanced GBP,False,,False
+35410,443,TAM05077TA,R3 - PREMIER Balanced GBP,False,,False
+35411,443,TAM050780i,R2 - PREMIER Cautious GBP,False,,False
+35412,443,TAM050782,R3 - PREMIER Balanced GBP,False,,False
+35413,443,TAM050783,R4 - PREMIER Growth GBP,False,,False
+35414,443,TAM050788,R4 - PREMIER Growth GBP,False,,False
+35415,443,TAM05078TA,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35416,443,TAM050790,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35417,443,TAM050795,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35418,443,TAM050796,R5 - PREMIER Adventurous GBP,False,,False
+35419,443,TAM050797,R3 - PREMIER Balanced GBP,False,,False
+35420,443,TAM05079T,R3 - PREMIER Balanced GBP,False,,False
+35421,443,TAM050804,R3 - PREMIER Balanced GBP,False,,False
+35422,443,TAM050811,R3 - PREMIER Balanced GBP,False,,False
+35423,443,TAM050813,R5 - PREMIER Adventurous GBP,False,,False
+35424,443,TAM050814,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35425,443,TAM050816,R3 - PREMIER Balanced GBP,False,,False
+35426,443,TAM05081T,R3 - PREMIER Balanced GBP,False,,False
+35427,443,TAM050820,R2 - PREMIER Cautious GBP,False,,False
+35428,443,TAM050828,R4 - PREMIER Growth GBP,True,", risk drift, tracking error drift",False
+35429,443,TAM050829i,R3 - PREMIER Balanced GBP,False,,False
+35430,443,TAM050830,R2 - PREMIER Cautious GBP,False,,False
+35431,443,TAM050831,R4 - PREMIER Growth GBP,False,,False
+35432,443,TAM050833,R3 - PREMIER Balanced GBP,False,,False
+35433,443,TAM050839,R3 - PREMIER Balanced GBP,False,,False
+35434,443,TAM050840,R3 - PREMIER Balanced GBP,False,,False
+35435,443,TAM050843,R4 - PREMIER Growth GBP,False,,False
+35436,443,TAM050844,R4 - PREMIER Growth GBP,False,,False
+35437,443,TAM050849,R3 - PREMIER Balanced GBP,False,,False
+35438,443,TAM050850,R3 - PREMIER Balanced GBP,False,,False
+35439,443,TAM050852,R3 - PREMIER Balanced GBP,False,,False
+35440,443,TAM050854,R3 - PREMIER Balanced GBP,False,,False
+35441,443,TAM050855,R3 - PREMIER Balanced GBP,False,,False
+35442,443,TAM050856,R5 - PREMIER Adventurous GBP,False,,False
+35443,443,TAM050862,R3 - PREMIER Balanced GBP,False,,False
+35444,443,TAM050865,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35445,443,TAM050868,R3 - PREMIER Balanced GBP,False,,False
+35446,443,TAM05086T,R3 - PREMIER Balanced GBP,False,,False
+35447,443,TAM050870,R3 - PREMIER Balanced GBP,False,,False
+35448,443,TAM050872,R3 - PREMIER Balanced GBP,False,,False
+35449,443,TAM050878,R4 - PREMIER Growth GBP,False,,False
+35450,443,TAM050879,R4 - PREMIER Growth GBP,False,,False
+35451,443,TAM050882,R3 - PREMIER Balanced GBP,False,,False
+35452,443,TAM050883,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35453,443,TAM050890,R4 - PREMIER Growth GBP,False,,False
+35454,443,TAM050895,R3 - PREMIER Balanced GBP,False,,False
+35455,443,TAM050897,R3 - PREMIER Balanced GBP,False,,False
+35456,443,TAM050899,R3 - PREMIER Balanced GBP,False,,False
+35457,443,TAM050901,R3 - PREMIER Balanced GBP,False,,False
+35458,443,TAM050903,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35459,443,TAM050904,R3 - PREMIER Balanced GBP,False,,False
+35460,443,TAM05090TA,R2 - PREMIER Cautious GBP,True,", tracking error drift",False
+35461,443,TAM05090Ti,R2 - PREMIER Cautious GBP,False,,False
+35462,443,TAM050910,R3 - PREMIER Balanced GBP,False,,False
+35463,443,TAM050913,R5 - PREMIER Adventurous GBP,False,,False
+35464,443,TAM050914,R2 - PREMIER Cautious GBP,True,", tracking error drift",False
+35465,443,TAM050917i,R3 - PREMIER Balanced GBP,False,,False
+35466,443,TAM05091T,R3 - PREMIER Balanced GBP,False,,False
+35467,443,TAM05091TA,R3 - PREMIER Balanced GBP,False,,False
+35468,443,TAM050923,R4 - PREMIER Growth GBP,False,,False
+35469,443,TAM05092T,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35470,443,TAM05092Ti,R3 - PREMIER Balanced GBP,False,,False
+35471,443,TAM050932,R3 - PREMIER Balanced GBP,False,,False
+35472,443,TAM050934,R3 - PREMIER Balanced GBP,False,,False
+35473,443,TAM050935,R3 - PREMIER Balanced GBP,False,,False
+35474,443,TAM050942,R3 - PREMIER Balanced GBP,False,,False
+35475,443,TAM050943,R3 - PREMIER Balanced GBP,False,,False
+35476,443,TAM050945,R4 - PREMIER Growth GBP,False,,False
+35477,443,TAM050959i,R2 - PREMIER Cautious GBP,False,,False
+35478,443,TAM05106TA,R3 - PREMIER Balanced GBP,False,,False
+35479,443,TAM05108TE,R3 - PREMIER Balanced GBP,False,,False
+35480,443,TAM05112TA,R3 - PREMIER Balanced GBP,False,,False
+35481,443,TAM05115Ti,R3 - PREMIER Balanced GBP,False,,False
+35482,443,TAM05117Ti,R3 - PREMIER Balanced GBP,False,,False
+35483,443,TAM05118Ti,R3 - PREMIER Balanced GBP,False,,False
+35484,443,TAM05119T,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35485,443,TAM05119TH,R2 - PREMIER Cautious GBP,False,,False
+35486,443,TAM05119Ti,R3 - PREMIER Balanced GBP,False,,False
+35487,443,TAM05120T,R2 - PREMIER Cautious GBP,False,,False
+35488,443,TAM05121TA,R3 - PREMIER Balanced GBP,False,,False
+35489,443,TAM05123Ti,R3 - PREMIER Balanced GBP,False,,False
+35490,443,TAM05124Ti,R3 - PREMIER Balanced GBP,False,,False
+35491,443,TAM05126Ti,R5 - PREMIER Adventurous GBP,False,,False
+35492,443,TAM05128TA,R3 - PREMIER Balanced GBP,False,,False
+35493,443,TAM05129Ti,R2 - PREMIER Cautious GBP,False,,False
+35494,443,TAM05142T,R2 - PREMIER Cautious GBP,False,,False
+35495,443,TAM05149T,R2 - PREMIER Cautious GBP,False,,False
+35496,443,TAM05154T,R1 - PREMIER Defensive GBP,False,,False
+35497,443,TAM05158TS,R2 - PREMIER Cautious GBP,False,,False
+35498,443,TAM05159T,R3 - PREMIER Balanced GBP,False,,False
+35499,443,TAM05161T,R2 - PREMIER Cautious GBP,False,,False
+35500,443,TAM05164Ti,R2 - PREMIER Cautious GBP,False,,False
+35501,443,TAM05165Ti,R2 - PREMIER Cautious GBP,False,,False
+35502,443,TAM05166T,R2 - PREMIER Cautious GBP,True,", tracking error drift",False
+35503,443,TAM05167T,R2 - PREMIER Cautious GBP,True,", tracking error drift",False
+35504,443,TAM05181T,R2 - PREMIER Cautious GBP,True,", tracking error drift",False
+35505,443,TAM05186T,R2 - PREMIER Cautious GBP,False,,False
+35506,443,TAM05197T,R2 - PREMIER Cautious GBP,True,", tracking error drift",False
+35507,443,TAM05198T,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35508,443,TAM05199T,R1 - PREMIER Defensive GBP,False,,False
+35509,443,TAM05205Ti,R2 - PREMIER Cautious GBP,False,,False
+35510,443,TAM05212H,R3 - PREMIER Balanced GBP,True,", tracking error drift",False
+35511,443,TAM05243Ui,R2 - PREMIER Cautious GBP,False,,False
+35512,443,TAM05274B,R4 - PREMIER Growth GBP,False,,False
+35513,443,TAM05315F,R3 - PREMIER Balanced GBP,False,,False
+35514,443,TAM05349U,R5 - PREMIER Adventurous GBP,True,", risk drift, tracking error drift",False
+35515,443,TAM05371F,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35516,443,TAM05381F,R1 - PREMIER Defensive GBP,True,", tracking error drift",False
+35517,443,TAM05468U,R5 - PREMIER Adventurous GBP,False,,False
+35518,443,TAM05564Ti,R2 - PREMIER Cautious GBP,False,,False
+35519,443,TAM05565Ti,R2 - PREMIER Cautious GBP,False,,False
+35520,443,TAM05594T,R3 - PREMIER Balanced GBP,False,,False
+35521,443,TAM06033Ci,R2 - PREMIER Cautious GBP,False,,False
+35522,443,TAM06044C,R2 - PREMIER Cautious GBP,True,", risk drift, tracking error drift",False
+35523,443,TAM06046Ci,R2 - PREMIER Cautious GBP,False,,False
+35524,443,TAM06053CA,R2 - PREMIER Cautious GBP,True,", risk drift, tracking error drift",False
+35525,443,TAM06054Ci,R2 - PREMIER Cautious GBP,False,,False
+35526,443,TAM06065C,R2 - PREMIER Cautious GBP,False,,False
+35527,443,TAM06066C,R3 - PREMIER Balanced GBP,True,", risk drift, tracking error drift",False
+35528,443,TAM07001P,R2 - PREMIER Cautious GBP,False,,False
+35529,443,TAMC0701C,R3 - PREMIER Balanced GBP,False,,False
+35530,443,TAMC07107A,R3 - PREMIER Balanced GBP,False,,False
+35531,443,TAMC0717A,R3 - PREMIER Balanced GBP,False,,False
+35532,443,TAMF01070i,R2 - PREMIER Cautious GBP,False,,False
+35533,443,TAMLIF635TA,R5 - PREMIER Adventurous GBP,True,", risk drift, tracking error drift",False
+35534,443,TAMLIF646C,R1 - PREMIER Defensive GBP,True,", risk drift, tracking error drift",False
+35535,443,TAMLIF646CA,R5 - PREMIER Adventurous GBP,False,,False
+35536,443,US00002225,R3 - PREMIER Balanced GBP,False,,False
+35537,443,WP00002224,R4 - PREMIER Growth GBP,False,,False
+35538,443,YQ00002227,R2 - PREMIER Cautious GBP,False,,False

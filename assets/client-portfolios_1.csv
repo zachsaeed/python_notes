@@ -1,0 +1,1847 @@
+suitability_summary_id,suitability_report_id,portfolio_id,allocation_model_id,has_drifted,description,rebalanced
+37393,458,AM-4202GPD006,Balanced / FF 4 GBP,False,,False
+37394,458,AM-4202GPD007,Growth / FF 5 GBP,True,", non strategy volatility drift, non strategy assets drift",False
+37395,458,TAE06002,ESG Cautious GBP,False,,False
+37396,458,TAE06003,ESG Balanced GBP,False,,False
+37397,458,TAE06004i,ESG Growth GBP,False,,False
+37398,458,TAE06005,ESG Growth GBP,False,,False
+37399,458,TAE06006,ESG Cautious GBP,False,,False
+37400,458,TAE06008,Balanced / FF 4 GBP,False,,False
+37401,458,TAE06009,ESG Cautious GBP,True,", tracking error drift",False
+37402,458,TAE06010,ESG Cautious GBP,False,,False
+37403,458,TAE06011i,ESG Adventurous GBP,False,,False
+37404,458,TAE06013,ESG Balanced GBP,False,,False
+37405,458,TAE06015i,ESG Cautious GBP,False,,False
+37406,458,TAE06021i,ESG Growth GBP,False,,False
+37407,458,TAE06022i,ESG Balanced GBP,False,,False
+37408,458,TAE06023i,ESG Balanced GBP,False,,False
+37409,458,TAE06024i,ESG Balanced GBP,False,,False
+37410,458,TAE06025i,ESG Balanced GBP,False,,False
+37411,458,TAE06027,ESG Balanced GBP,False,,False
+37412,458,TAE06028i,ESG Cautious GBP,False,,False
+37413,458,TAE06029i,ESG Cautious GBP,False,,False
+37414,458,TAE06030,ESG Adventurous GBP,False,,False
+37415,458,TAE06034,ESG Balanced GBP,False,,False
+37416,458,TAE06036i,ESG Balanced GBP,False,,False
+37417,458,TAE06038i,ESG Growth GBP,False,,False
+37418,458,TAE06039i,ESG Growth GBP,False,,False
+37419,458,TAE06040,ESG Balanced GBP,False,,False
+37420,458,TAE06046,ESG Balanced GBP,False,,False
+37421,458,TAE06047,ESG Adventurous GBP,False,,False
+37422,458,TAE06052i,ESG Balanced GBP,False,,False
+37423,458,TAE06053i,ESG Balanced GBP,False,,False
+37424,458,TAE06054i,ESG Growth GBP,False,,False
+37425,458,TAE06055i,ESG Balanced GBP,False,,False
+37426,458,TAE06056i,ESG Balanced GBP,False,,False
+37427,458,TAE06057i,ESG Balanced GBP,False,,False
+37428,458,TAE06058i,ESG Growth GBP,True,assetClass_Equity,False
+37429,458,TAE06062i,ESG Growth GBP,False,,False
+37430,458,TAE06063i,ESG Growth GBP,False,,False
+37431,458,TAE06064i,ESG Cautious GBP,False,,False
+37432,458,TAE06065i,ESG Growth GBP,True,assetClass_Equity,False
+37433,458,TAE06067,ESG Growth GBP,True,assetClass_Equity,False
+37434,458,TAE06068,ESG Balanced GBP,False,,False
+37435,458,TAE06072,ESG Growth GBP,False,,False
+37436,458,TAE06076i,ESG Cautious GBP,True,", tracking error drift",False
+37437,458,TAE06080,ESG Growth GBP,True,assetClass_Equity,False
+37438,458,TAE06081,ESG Balanced GBP,False,,False
+37439,458,TAE06082,ESG Cautious GBP,False,,False
+37440,458,TAE06083,ESG Cautious GBP,True,", tracking error drift",False
+37441,458,TAE06084,ESG Balanced GBP,False,,False
+37442,458,TAE06085,ESG Balanced GBP,False,,False
+37443,458,TAE06089i,Balanced / FF 4 GBP,False,,False
+37444,458,TAE06090i,ESG Defensive GBP,False,,False
+37445,458,TAE06091i,ESG Growth GBP,True,assetClass_Equity,False
+37446,458,TAE06093i,ESG Cautious GBP,False,,False
+37447,458,TAE06098i,ESG Balanced GBP,False,,False
+37448,458,TAE06100,ESG Balanced GBP,False,,False
+37449,458,TAE06101,ESG Cautious GBP,True,", tracking error drift",False
+37450,458,TAE06102i,ESG Cautious GBP,False,,False
+37451,458,TAE06104,ESG Balanced GBP,False,,False
+37452,458,TAE06105,ESG Cautious GBP,False,,False
+37453,458,TAE06106,ESG Balanced GBP,True,", tracking error drift",False
+37454,458,TAE06107,ESG Balanced GBP,False,,False
+37455,458,TAE06108,ESG Cautious GBP,False,,False
+37456,458,TAE06109,ESG Balanced GBP,False,,False
+37457,458,TAE06110,ESG Growth GBP,False,,False
+37458,458,TAE06111i,ESG Balanced GBP,False,,False
+37459,458,TAE06112i,ESG Cautious GBP,False,,False
+37460,458,TAE06113,ESG Balanced GBP,False,,False
+37461,458,TAE06114i,ESG Growth GBP,True,assetClass_Equity,False
+37462,458,TAE06115i,ESG Balanced GBP,False,,False
+37463,458,TAE06116,ESG Balanced GBP,False,,False
+37464,458,TAE06117,ESG Growth GBP,True,assetClass_Equity,False
+37465,458,TAE06118i,ESG Balanced GBP,True,assetClass_Equity,False
+37466,458,TAE06119,ESG Balanced GBP,False,,False
+37467,458,TAE06123i,ESG Balanced GBP,False,,False
+37468,458,TAE06124i,ESG Balanced GBP,False,,False
+37469,458,TAE06125,ESG Balanced GBP,False,,False
+37470,458,TAE06127,Cautious EUR,False,,False
+37471,458,TAE06128,ESG Balanced GBP,False,,False
+37472,458,TAE06129i,ESG Balanced GBP,False,,False
+37473,458,TAE06130,ESG Growth GBP,False,,False
+37474,458,TAE06131,ESG Growth GBP,False,,False
+37475,458,TAE06132i,ESG Growth GBP,False,,False
+37476,458,TAE06133,ESG Balanced GBP,False,,False
+37477,458,TAE06134,ESG Growth GBP,True,assetClass_Equity,False
+37478,458,TAE06135i,ESG Growth GBP,True,assetClass_Equity,False
+37479,458,TAE06136,ESG Growth GBP,True,assetClass_Equity,False
+37480,458,TAE06137,ESG Growth GBP,True,assetClass_Equity,False
+37481,458,TAE06138i,ESG Growth GBP,True,assetClass_Equity,False
+37482,458,TAE06139i,ESG Growth GBP,True,assetClass_Equity,False
+37483,458,TAE06140,ESG Growth GBP,True,assetClass_Equity,False
+37484,458,TAE06141,ESG Balanced GBP,False,,False
+37485,458,TAE06142i,ESG Balanced GBP,False,,False
+37486,458,TAE06143,ESG Balanced GBP,False,,False
+37487,458,TAE06144i,ESG Balanced GBP,False,,False
+37488,458,TAE06145,ESG Balanced GBP,True,", tracking error drift",False
+37489,458,TAE06146i,ESG Balanced GBP,False,,False
+37490,458,TAH02001,Focus Cautious / FF Lite 3 GBP,True,", non strategy volatility drift, non strategy assets drift",False
+37491,458,TAH02003,Focus Growth / FF Lite 5 GBP,True,", non strategy volatility drift, non strategy assets drift",False
+37492,458,TAH02005,Focus Cautious / FF Lite 3 GBP,True,", non strategy volatility drift, non strategy assets drift",False
+37493,458,TAH02006,Focus Growth / FF Lite 5 GBP,True,", non strategy volatility drift, non strategy assets drift",False
+37494,458,TAH02007,Focus Cautious / FF Lite 3 GBP,True,", non strategy volatility drift, non strategy assets drift",False
+37495,458,TAHA001M,Focus Cautious / FF Lite 3 GBP,True,", non strategy volatility drift, non strategy assets drift",False
+37496,458,TAHA003M,Focus Growth / FF Lite 5 GBP,True,", non strategy volatility drift, non strategy assets drift",False
+37497,458,TAI09610,Balanced / FF 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37498,458,TAI09624,Focus Cautious USD,True,", tracking error drift",False
+37499,458,TAI09636,Cautious / FF 3 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37500,458,TAI09808,Premier Cautious USD,True,", non strategy volatility drift, non strategy assets drift",False
+37501,458,TAI09915,Balanced EUR,False,,False
+37502,458,TAI09919,Cautious EUR,False,,False
+37503,458,TAI09930,Growth / FF 5 GBP,False,,False
+37504,458,TAI09936,Balanced / FF 4 GBP,False,,False
+37505,458,TAI09958,Growth / FF 5 GBP,False,,False
+37506,458,TAI09976,Balanced / FF 4 GBP,False,,False
+37507,458,TAICM3001,Balanced EUR,False,,False
+37508,458,TAICM3003,Balanced EUR,False,,False
+37509,458,TAICM3004,Balanced EUR,False,,False
+37510,458,TAIFL7003,Focus Cautious / FF Lite 3 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37511,458,TAIFL7018,Cautious EUR,False,,False
+37512,458,TAIFL7024,Focus Adventurous USD,True,", tracking error drift",False
+37513,458,TAIFL7042,Focus Cautious / FF Lite 3 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37514,458,TAIFL7045,Focus Adventurous USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+37515,458,TAIFL7051,Passive Balanced GBP,False,,False
+37516,458,TAIFL7057,Focus Balanced / FF Lite 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37517,458,TAIFL7060,Focus Balanced / FF Lite 4 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37518,458,TAIFL7069,Focus Balanced / FF Lite 4 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37519,458,TAIFL7075,TAM Focus Growth GBP,False,,False
+37520,458,TAIFL7084,Focus Growth / FF Lite 5 GBP,True,"assetClass_Equity, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37521,458,TAIFS2001,Balanced / FF 4 GBP,False,,False
+37522,458,TAIFS2025,Adventurous / FF 6 GBP,False,,False
+37523,458,TAIFS2028,Cautious EUR,False,,False
+37524,458,TAIFS2041,Adventurous EUR,False,,False
+37525,458,TAIFS2043,Focus Balanced USD,False,,False
+37526,458,TAIFS2047,Balanced / FF 4 GBP,False,,False
+37527,458,TAIFS2069,Cautious / FF 3 GBP,False,,False
+37528,458,TAIFS2072,Balanced / FF 4 GBP,False,,False
+37529,458,TAIFS2081,Adventurous / FF 6 GBP,False,,False
+37530,458,TAIFS2087,Growth / FF 5 GBP,False,,False
+37531,458,TAIFS2090,Focus Balanced USD,False,,False
+37532,458,TAIFS2099,Balanced / FF 4 GBP,False,,False
+37533,458,TAIFS2105,Balanced EUR,False,,False
+37534,458,TAIFS2111,Focus Balanced USD,False,,False
+37535,458,TAIFS2114,Focus Adventurous USD,False,,False
+37536,458,TAIFS2126,Balanced / FF 4 GBP,False,,False
+37537,458,TAIFS2129,Balanced EUR,False,,False
+37538,458,TAIFS2132,Focus Growth USD,False,,False
+37539,458,TAIFS2141,Focus Growth USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+37540,458,TAIFS2144,Growth / FF 5 GBP,False,,False
+37541,458,TAIFS2147,Balanced / FF 4 GBP,False,,False
+37542,458,TAIFS2156,Focus Balanced USD,False,,False
+37543,458,TAIFS2168,Adventurous / FF 6 GBP,False,,False
+37544,458,TAIFS2171,Cautious / FF 3 GBP,False,,False
+37545,458,TAIFS2180,Balanced / FF 4 GBP,False,,False
+37546,458,TAIFS2183,Premier Cautious USD,False,,False
+37547,458,TAIFS2187,Growth / FF 5 GBP,False,,False
+37548,458,TAIFS2196,Focus Balanced USD,False,,False
+37549,458,TAIFS2199,Balanced EUR,False,,False
+37550,458,TAIFS2202,Balanced EUR,False,,False
+37551,458,TAIFS2205,Focus Balanced USD,False,,False
+37552,458,TAIFS2208,Balanced / FF 4 GBP,False,,False
+37553,458,TAIFS2211,Focus Growth USD,False,,False
+37554,458,TAIFS2223,Balanced / FF 4 GBP,False,,False
+37555,458,TAIFS2229,Focus Balanced USD,False,,False
+37556,458,TAIFS2232,Focus Balanced USD,False,,False
+37557,458,TAIFS2235,Balanced / FF 4 GBP,False,,False
+37558,458,TAIFS2241,Balanced / FF 4 GBP,False,,False
+37559,458,TAIFS2244,Growth / FF 5 GBP,False,,False
+37560,458,TAIFS2257,Focus Growth CHF,True,"assetClass_Equity, tracking error drift",False
+37561,458,TAIFS2260,Balanced EUR,False,,False
+37562,458,TAIFS2269,Cautious / FF 3 GBP,False,,False
+37563,458,TAIFS2278,Growth / FF 5 GBP,False,,False
+37564,458,TAIFS2293,Balanced EUR,False,,False
+37565,458,TAIFS2299,Focus Growth USD,False,,False
+37566,458,TAIFS2302,Cautious EUR,False,,False
+37567,458,TAIFS2308,Balanced / FF 4 GBP,False,,False
+37568,458,TAIFS2321,Growth / FF 5 GBP,False,,False
+37569,458,TAIFS2324,Focus Balanced / FF Lite 4 GBP,False,,False
+37570,458,TAIFS2351,Balanced EUR,False,,False
+37571,458,TAIFS2354,Focus Adventurous USD,False,,False
+37572,458,TAIFS2357,Cautious / FF 3 GBP,False,,False
+37573,458,TAIFS2369,Focus Balanced USD,False,,False
+37574,458,TAIFS2370,Focus Adventurous USD,False,,False
+37575,458,TAIFS2378,Balanced EUR,False,,False
+37576,458,TAIFS2381,Focus Cautious USD,False,,False
+37577,458,TAIFS2384,Adventurous EUR,False,,False
+37578,458,TAIFS2390,Focus Balanced USD,True,"assetClass_Equity, tracking error drift",False
+37579,458,TAIFS2393,Focus Balanced / FF Lite 4 GBP,False,,False
+37580,458,TAIFS2402,Balanced / FF 4 GBP,False,,False
+37581,458,TAIFS2405,Focus Balanced / FF Lite 4 GBP,False,,False
+37582,458,TAIFS2408,Focus Growth USD,False,,False
+37583,458,TAIFS2411,Focus Growth USD,False,,False
+37584,458,TAIFS2420,Focus Balanced USD,False,,False
+37585,458,TAIPL6044,Growth / FF 5 GBP,True,", non strategy volatility drift, non strategy assets drift",False
+37586,458,TAIPL6101,Premier Cautious USD,True,", risk drift, tracking error drift",False
+37587,458,TAIPL6104,Premier Balanced USD,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37588,458,TAIPL6113,Balanced / FF 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37589,458,TAIPL6119,TAM Premier Balanced USD,True,assetClass_Equity,False
+37590,458,TAIPR1003,Growth / FF 5 GBP,False,,False
+37591,458,TAIPR1018,Growth / FF 5 GBP,False,,False
+37592,458,TAIPR1041,Growth / FF 5 GBP,False,,False
+37593,458,TAIPR1047,Cautious / FF 3 GBP,False,,False
+37594,458,TAIPR1053,Premier Balanced USD,True,assetClass_Equity,False
+37595,458,TAIPR1068,Cautious / FF 3 GBP,False,,False
+37596,458,TAIPR1074,Balanced / FF 4 GBP,False,,False
+37597,458,TAIPR1086,Premier Growth USD,True,", tracking error drift",False
+37598,458,TAIPR1087,Premier Cautious USD,True,", risk drift, tracking error drift",False
+37599,458,TAIPR1089,Balanced / FF 4 GBP,False,,False
+37600,458,TAIPR1107,Balanced / FF 4 GBP,False,,False
+37601,458,TAIPR1110,Cautious / FF 3 GBP,True,", tracking error drift",False
+37602,458,TAIPR1116,Balanced / FF 4 GBP,False,,False
+37603,458,TAIPR1122,Premier Balanced USD,True,", tracking error drift",False
+37604,458,TAIPR1125,Premier Balanced USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+37605,458,TAIPR1131,Balanced / FF 4 GBP,False,,False
+37606,458,TAIPR1153,Growth / FF 5 GBP,False,,False
+37607,458,TAIPR1163,Cautious / FF 3 GBP,False,,False
+37608,458,TAIPR1170,Cautious EUR,False,,False
+37609,458,TAIPR1173,Premier Growth USD,False,,False
+37610,458,TAIPR1176,Premier Balanced USD,False,,False
+37611,458,TAIPR1182,Balanced / FF 4 GBP,False,,False
+37612,458,TAIPR1185,Premier Cautious USD,False,,False
+37613,458,TAIPR1197,Balanced / FF 4 GBP,False,,False
+37614,458,TAIPR1206,Premier Growth USD,False,,False
+37615,458,TAIPR1209,Balanced / FF 4 GBP,False,,False
+37616,458,TAIPR1218,Growth / FF 5 GBP,False,,False
+37617,458,TAIPR1221,Growth / FF 5 GBP,False,,False
+37618,458,TAIPR1224,Premier Growth USD,False,,False
+37619,458,TAIPR1227,Balanced EUR,False,,False
+37620,458,TAIPR1230,Balanced / FF 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37621,458,TAIPR1236,Balanced / FF 4 GBP,True,", non strategy volatility drift, non strategy assets drift",False
+37622,458,TAIPR1242,Premier Speculative USD,False,,False
+37623,458,TAIPR1245,Balanced / FF 4 GBP,False,,False
+37624,458,TAIPR1248,Balanced / FF 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37625,458,TAIPR1251,Balanced EUR,False,,False
+37626,458,TAIPR1257,Growth / FF 5 GBP,False,,False
+37627,458,TAIPR1260,TAM Premier Balanced GBP,False,,False
+37628,458,TAIPR1263,Balanced / FF 4 GBP,False,,False
+37629,458,TAIPR1266,Balanced / FF 4 GBP,False,,False
+37630,458,TAIPR1269,Balanced / FF 4 GBP,False,,False
+37631,458,TAIPR1272,Premier Balanced USD,False,,False
+37632,458,TAIPR1284,Balanced / FF 4 GBP,False,,False
+37633,458,TAIPR1287,Balanced / FF 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37634,458,TAIRS4004,Focus Adventurous USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+37635,458,TAIRS4013,Balanced EUR,False,,False
+37636,458,TAIRS4025,Balanced EUR,True,"assetClass_Equity, risk drift, tracking error drift",False
+37637,458,TAISH0020,Sharia Balanced GBP,False,,False
+37638,458,TAISH0024,Sharia Growth USD,False,,False
+37639,458,TAIV1001,Growth USD,False,,False
+37640,458,TAIV1003,Balanced Growth USD,False,,False
+37641,458,TAIV1006,Conservative Balanced USD,False,,False
+37642,458,TAIV1009,Balanced Growth GBP,False,,False
+37643,458,TAIV1015,Conservative Balanced GBP,False,,False
+37644,458,TAIV1018,Growth USD,False,,False
+37645,458,TAIV1021,Balanced Growth USD,False,,False
+37646,458,TAIV1024,Growth USD,False,,False
+37647,458,TAIV1033A,Balanced Growth USD,False,,False
+37648,458,TAIV1033B,Growth GBP,False,,False
+37649,458,TAIV1036,Balanced Growth EUR,False,,False
+37650,458,TAIV1039,Balanced Growth GBP,False,,False
+37651,458,TAIV1045,Balanced Growth USD,False,,False
+37652,458,TAIV1048,Conservative Balanced GBP,False,,False
+37653,458,TAIV1051,Balanced Growth USD,False,,False
+37654,458,TAIV1054,Conservative Balanced USD,False,,False
+37655,458,TAIV1057,Balanced Growth USD,False,,False
+37656,458,TAIV1060,Conservative Balanced USD,False,,False
+37657,458,TAIV1063,Balanced Growth EUR,False,,False
+37658,458,TAIV1066,Conservative Balanced GBP,False,,False
+37659,458,TAIV1069,Conservative Balanced USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+37660,458,TAIV1069A,Conservative Balanced GBP,False,,False
+37661,458,TAIV1072,Growth USD,False,,False
+37662,458,TAIV1075,Growth USD,False,,False
+37663,458,TAIV1075A,Growth GBP,True,assetClass_Equity,False
+37664,458,TAIV1078,Balanced Growth USD,False,,False
+37665,458,TAIV1090,Conservative Balanced USD,False,,False
+37666,458,TAIV1093,Balanced Growth GBP,False,,False
+37667,458,TAIV1093A,Balanced Growth EUR,False,,False
+37668,458,TAIV1099,Balanced Growth USD,False,,False
+37669,458,TAIV1102,Balanced Growth USD,True,assetClass_Equity,False
+37670,458,TAIV1105,Balanced Growth GBP,False,,False
+37671,458,TAIV1108,Conservative Balanced GBP,False,,False
+37672,458,TAIV1111,Balanced Growth USD,False,,False
+37673,458,TAIV1117,Balanced Growth GBP,False,,False
+37674,458,TAIV1120,Balanced Growth GBP,False,,False
+37675,458,TAIV1123,Growth USD,False,,False
+37676,458,TAIV1126,Balanced Growth USD,False,,False
+37677,458,TAIV1129,Growth USD,False,,False
+37678,458,TAIV1132,Balanced Growth GBP,False,,False
+37679,458,TAIV1135,Growth USD,False,,False
+37680,458,TAIV1138,Conservative Balanced USD,False,,False
+37681,458,TAIV1138A,Conservative Balanced GBP,False,,False
+37682,458,TAIV1141,Growth GBP,True,", tracking error drift",False
+37683,458,TAIV1144,Growth GBP,True,", tracking error drift",False
+37684,458,TAIV1147,Conservative Balanced GBP,True,", tracking error drift",False
+37685,458,TAIV1150,Conservative Balanced GBP,True,", tracking error drift",False
+37686,458,TAIV1153,Growth GBP,False,,False
+37687,458,TAIV1159,Conservative Balanced GBP,False,,False
+37688,458,TAIV1162,Balanced Growth GBP,False,,False
+37689,458,TAIV1165,Conservative Balanced GBP,False,,False
+37690,458,TAIV1168,Balanced Growth GBP,False,,False
+37691,458,TAIV1171,Balanced Growth USD,False,,False
+37692,458,TAIV1174,Growth USD,False,,False
+37693,458,TAIV1177,Balanced Growth USD,False,,False
+37694,458,TAIV1180,Growth USD,False,,False
+37695,458,TAIV1183,Conservative Balanced USD,False,,False
+37696,458,TAIV1189,Conservative Balanced GBP,False,,False
+37697,458,TAIV1192,Balanced Growth USD,False,,False
+37698,458,TAIV1195,Balanced Growth GBP,False,,False
+37699,458,TAIV1201,Balanced Growth USD,False,,False
+37700,458,TAIV1207,Balanced Growth GBP,False,,False
+37701,458,TAIV1210,Balanced Growth USD,False,,False
+37702,458,TAIV1213,Balanced Growth USD,False,,False
+37703,458,TAIV1219,Balanced Growth GBP,False,,False
+37704,458,TAIV1228,Balanced Growth USD,False,,False
+37705,458,TAIV1231,Balanced Growth USD,False,,False
+37706,458,TAIV1231A,Balanced Growth GBP,False,,False
+37707,458,TAIV1234,Balanced Growth GBP,False,,False
+37708,458,TAIV1237,Balanced Growth GBP,True,assetClass_Equity,False
+37709,458,TAIV1237A,Balanced Growth USD,False,,False
+37710,458,TAIV1240,Balanced Growth GBP,False,,False
+37711,458,TAIV1243,Balanced Growth GBP,False,,False
+37712,458,TAIV1243A,Balanced Growth USD,False,,False
+37713,458,TAIV1246,Balanced Growth GBP,True,", tracking error drift",False
+37714,458,TAIV1249,Balanced Growth USD,False,,False
+37715,458,TAIV1252,Balanced Growth GBP,False,,False
+37716,458,TAIV1255,Balanced Growth USD,False,,False
+37717,458,TAIV1258,Growth USD,True,assetClass_Equity,False
+37718,458,TAIV1261,Growth USD,False,,False
+37719,458,TAIV1264,Balanced Growth USD,False,,False
+37720,458,TAIV1267,Balanced Growth EUR,False,,False
+37721,458,TAIV1270,Growth GBP,False,,False
+37722,458,TAIV1273,Conservative Balanced USD,False,,False
+37723,458,TAIV1276,Balanced Growth GBP,False,,False
+37724,458,TAIV1279,Conservative Balanced USD,False,,False
+37725,458,TAIV1279A,Conservative Balanced GBP,False,,False
+37726,458,TAIV1282,Balanced Growth GBP,False,,False
+37727,458,TAIV1285,Balanced Growth USD,False,,False
+37728,458,TAIV1285A,Balanced Growth GBP,False,,False
+37729,458,TAIV1288,Balanced Growth GBP,False,,False
+37730,458,TAIV1291,Conservative Balanced USD,False,,False
+37731,458,TAIV1294,Balanced Growth USD,False,,False
+37732,458,TAIV1300,Balanced Growth GBP,False,,False
+37733,458,TAIV1303,Balanced Growth GBP,False,,False
+37734,458,TAIV1312,Conservative Balanced GBP,False,,False
+37735,458,TAIV1315,Conservative Balanced USD,False,,False
+37736,458,TAIV1318,Balanced Growth GBP,False,,False
+37737,458,TAIV1321,Balanced Growth GBP,False,,False
+37738,458,TAIV1327,Balanced Growth USD,False,,False
+37739,458,TAIV1327A,Balanced Growth GBP,False,,False
+37740,458,TAIV1330,Balanced Growth GBP,False,,False
+37741,458,TAIV1333,Balanced Growth GBP,False,,False
+37742,458,TAIV1336,Balanced Growth EUR,False,,False
+37743,458,TAIV1339,Balanced Growth USD,False,,False
+37744,458,TAIV1342,Balanced Growth GBP,False,,False
+37745,458,TAIV1345,Balanced Growth GBP,False,,False
+37746,458,TAIV1348,Balanced Growth USD,False,,False
+37747,458,TAIV1348A,Balanced Growth EUR,False,,False
+37748,458,TAIV1351,Conservative Balanced GBP,False,,False
+37749,458,TAIV1354,Conservative Balanced GBP,False,,False
+37750,458,TAIV1357,Conservative Balanced GBP,False,,False
+37751,458,TAIV1360,Balanced Growth GBP,False,,False
+37752,458,TAIV1363,Conservative Balanced USD,False,,False
+37753,458,TAIV1366,Conservative Balanced USD,False,,False
+37754,458,TAIV1369,Balanced Growth USD,False,,False
+37755,458,TAIV1372,Balanced Growth USD,False,,False
+37756,458,TAIV1375,Balanced Growth GBP,False,,False
+37757,458,TAIV1378,Growth USD,False,,False
+37758,458,TAIV1381,Balanced Growth GBP,False,,False
+37759,458,TAIV1384,Balanced Growth USD,False,,False
+37760,458,TAIV1387,Balanced Growth USD,False,,False
+37761,458,TAIV1390,Balanced Growth GBP,False,,False
+37762,458,TAIV1393,Balanced Growth USD,False,,False
+37763,458,TAIV1396,Balanced Growth GBP,False,,False
+37764,458,TAIV1399,Growth USD,False,,False
+37765,458,TAIV1402,Balanced Growth USD,False,,False
+37766,458,TAIV1402A,Balanced Growth GBP,False,,False
+37767,458,TAIV1405,Growth USD,False,,False
+37768,458,TAIV1408,Balanced Growth USD,False,,False
+37769,458,TAIV1417,Growth USD,False,,False
+37770,458,TAIV1420,Conservative Balanced GBP,False,,False
+37771,458,TAIV1420A,Conservative Balanced USD,False,,False
+37772,458,TAIV1423,Balanced Growth USD,False,,False
+37773,458,TAIV1426,Balanced Growth GBP,False,,False
+37774,458,TAIV1429,Conservative Balanced GBP,False,,False
+37775,458,TAIV1432,Balanced Growth USD,False,,False
+37776,458,TAIV1438,Conservative Balanced USD,False,,False
+37777,458,TAIV1441,Balanced Growth GBP,False,,False
+37778,458,TAIV1447,Balanced Growth GBP,False,,False
+37779,458,TAIV1453,Balanced Growth GBP,False,,False
+37780,458,TAIV1456,Conservative Balanced GBP,False,,False
+37781,458,TAIV1462,Growth USD,False,,False
+37782,458,TAIV1465,Balanced Growth GBP,False,,False
+37783,458,TAIV1468,Balanced Growth GBP,False,,False
+37784,458,TAIV1471,Balanced Growth GBP,False,,False
+37785,458,TAIV1474,Growth USD,False,,False
+37786,458,TAIV1477,Growth USD,False,,False
+37787,458,TAIV1480,Balanced Growth GBP,False,,False
+37788,458,TAIV1483,Balanced Growth USD,False,,False
+37789,458,TAIV1486,Conservative Balanced GBP,False,,False
+37790,458,TAIV1489,Balanced Growth USD,False,,False
+37791,458,TAIV1492,Balanced Growth USD,False,,False
+37792,458,TAIV1495,Growth GBP,False,,False
+37793,458,TAIV1498,Balanced Growth GBP,False,,False
+37794,458,TAIV1498A,Growth GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+37795,458,TAIV1501,Conservative Balanced GBP,False,,False
+37796,458,TAIV1504,Growth GBP,False,,False
+37797,458,TAIV1507,Balanced Growth GBP,False,,False
+37798,458,TAIV1510,Conservative Balanced USD,False,,False
+37799,458,TAIV1513,Conservative Balanced GBP,False,,False
+37800,458,TAIV1519,Conservative Balanced USD,False,,False
+37801,458,TAIV1525,Balanced Growth GBP,False,,False
+37802,458,TAIV1528,Balanced Growth GBP,False,,False
+37803,458,TAIV1531,Balanced Growth GBP,False,,False
+37804,458,TAIV1537,Balanced Growth GBP,False,,False
+37805,458,TAIV1546,Conservative Balanced GBP,False,,False
+37806,458,TAIV1546A,Conservative Balanced USD,False,,False
+37807,458,TAIV1549,Balanced Growth USD,False,,False
+37808,458,TAIV1561,Balanced Growth GBP,False,,False
+37809,458,TAIV1561A,Balanced Growth USD,False,,False
+37810,458,TAIV1567,Conservative Balanced EUR,True,"assetClass_Equity, tracking error drift",False
+37811,458,TAIV1567B,Conservative Balanced GBP,False,,False
+37812,458,TAIV1570,Conservative Balanced GBP,False,,False
+37813,458,TAIV1573,Conservative Balanced GBP,False,,False
+37814,458,TAIV1576,Growth USD,False,,False
+37815,458,TAIV1579,Balanced Growth GBP,False,,False
+37816,458,TAIV1585,Conservative Balanced USD,False,,False
+37817,458,TAIV1591,Growth USD,False,,False
+37818,458,TAIV1594,Balanced Growth GBP,False,,False
+37819,458,TAIV1597,Balanced Growth GBP,False,,False
+37820,458,TAIV1600,Growth GBP,False,,False
+37821,458,TAIV1603,Conservative Balanced GBP,False,,False
+37822,458,TAIV1606,Conservative Balanced USD,False,,False
+37823,458,TAIV1609,Balanced Growth GBP,False,,False
+37824,458,TAIV1615,Balanced Growth GBP,False,,False
+37825,458,TAIV1618,Balanced Growth USD,False,,False
+37826,458,TAIV1624,Growth GBP,False,,False
+37827,458,TAIV1639,Growth GBP,False,,False
+37828,458,TAIV1648A,Conservative Balanced GBP,False,,False
+37829,458,TAIV1648C,Conservative Balanced USD,False,,False
+37830,458,TAIV1651,Balanced Growth GBP,False,,False
+37831,458,TAIV1657,Balanced Growth USD,False,,False
+37832,458,TAIV1660,Growth USD,True,assetClass_Equity,False
+37833,458,TAIV1660A,Growth GBP,False,,False
+37834,458,TAIV1663,Balanced Growth USD,False,,False
+37835,458,TAIV1666,Balanced Growth GBP,False,,False
+37836,458,TAIV1672,Balanced Growth USD,False,,False
+37837,458,TAIV1678,Conservative Balanced USD,False,,False
+37838,458,TAIV1687,Balanced Growth USD,False,,False
+37839,458,TAIV1696,Balanced Growth GBP,False,,False
+37840,458,TAIV1705,Conservative Balanced GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+37841,458,TAIV1708,Conservative Balanced GBP,False,,False
+37842,458,TAIV1711,Growth GBP,False,,False
+37843,458,TAIV1723,Conservative Balanced USD,False,,False
+37844,458,TAIV1726,Balanced Growth GBP,True,assetClass_Equity,False
+37845,458,TAIV1729,Balanced Growth GBP,False,,False
+37846,458,TAIV1732,Growth USD,False,,False
+37847,458,TAIV1735,Conservative Balanced USD,False,,False
+37848,458,TAIV1738,Growth GBP,False,,False
+37849,458,TAIV1744,Balanced Growth USD,False,,False
+37850,458,TAIV1747,Balanced Growth USD,False,,False
+37851,458,TAIV1750,Conservative Balanced USD,False,,False
+37852,458,TAIV1756,Conservative Balanced USD,False,,False
+37853,458,TAIV1759,Conservative Balanced GBP,False,,False
+37854,458,TAIV1762,Balanced Growth USD,False,,False
+37855,458,TAIV1768,Conservative Balanced USD,False,,False
+37856,458,TAIV1780,Balanced Growth USD,False,,False
+37857,458,TAIV1783,Conservative Balanced USD,False,,False
+37858,458,TAIV1786,Balanced Growth GBP,False,,False
+37859,458,TAIV1801,Balanced Growth GBP,False,,False
+37860,458,TAIV1804,Balanced Growth USD,False,,False
+37861,458,TAIV1810,Balanced Growth GBP,False,,False
+37862,458,TAIV1816,Balanced Growth USD,False,,False
+37863,458,TAIV1819,Balanced Growth USD,False,,False
+37864,458,TAIV1825,Growth GBP,False,,False
+37865,458,TAIV1831,Balanced Growth GBP,False,,False
+37866,458,TAIV1840,Conservative Balanced GBP,False,,False
+37867,458,TAIV1846,Growth USD,True,assetClass_Equity,False
+37868,458,TAIV1849,Balanced Growth GBP,False,,False
+37869,458,TAIV1855,Balanced Growth GBP,False,,False
+37870,458,TAIV1855A,Conservative Balanced USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+37871,458,TAIV1855B,Growth USD,False,,False
+37872,458,TAIV1861,Growth USD,False,,False
+37873,458,TAIV1864,Growth GBP,False,,False
+37874,458,TAIV1864A,Growth USD,True,assetClass_Equity,False
+37875,458,TAIV1867,Balanced Growth GBP,False,,False
+37876,458,TAIV1876,Balanced Growth GBP,False,,False
+37877,458,TAIV1879,Balanced Growth GBP,False,,False
+37878,458,TAIV1879A,Balanced Growth USD,False,,False
+37879,458,TAIV1885,Balanced Growth GBP,False,,False
+37880,458,TAIV1894,Conservative Balanced USD,False,,False
+37881,458,TAIV1906,Balanced Growth GBP,True,", tracking error drift",False
+37882,458,TAIV1918,Conservative Balanced GBP,False,,False
+37883,458,TAIV1921,Balanced Growth GBP,False,,False
+37884,458,TAIV1924,Growth GBP,False,,False
+37885,458,TAIV1928,Balanced Growth GBP,False,,False
+37886,458,TAIV1930,Growth GBP,False,,False
+37887,458,TAIV1933,Balanced Growth USD,False,,False
+37888,458,TAIV1936,Balanced Growth GBP,False,,False
+37889,458,TAIV1948,Balanced Growth GBP,False,,False
+37890,458,TAIV1957,Balanced Growth GBP,False,,False
+37891,458,TAIV1966,Balanced Growth GBP,False,,False
+37892,458,TAIV1969,Conservative Balanced EUR,False,,False
+37893,458,TAIV1972,Conservative Balanced GBP,False,,False
+37894,458,TAIV1987,Balanced Growth GBP,False,,False
+37895,458,TAIV1990,Balanced Growth GBP,False,,False
+37896,458,TAIV1993,Balanced Growth USD,False,,False
+37897,458,TAIV1999,Growth USD,False,,False
+37898,458,TAIV2002,Balanced Growth USD,False,,False
+37899,458,TAIV2002B,Balanced Growth EUR,False,,False
+37900,458,TAIV2008,Balanced Growth GBP,False,,False
+37901,458,TAIV2014,Growth USD,False,,False
+37902,458,TAIV2020,Balanced Growth USD,False,,False
+37903,458,TAIV2026,Balanced Growth GBP,False,,False
+37904,458,TAIV2032,Growth GBP,False,,False
+37905,458,TAIV2035,Balanced Growth GBP,False,,False
+37906,458,TAIV2035A,Balanced Growth USD,False,,False
+37907,458,TAIV2050,Growth GBP,False,,False
+37908,458,TAIV2053,Balanced Growth GBP,False,,False
+37909,458,TAIV2071,Conservative Balanced GBP,False,,False
+37910,458,TAIV2077,Growth USD,False,,False
+37911,458,TAIV2080,Growth USD,False,,False
+37912,458,TAIV2086,Balanced Growth USD,False,,False
+37913,458,TAIV2089,Balanced Growth GBP,False,,False
+37914,458,TAIV2098,Growth USD,False,,False
+37915,458,TAIV2101,Balanced Growth GBP,False,,False
+37916,458,TAIV2104,Balanced Growth GBP,False,,False
+37917,458,TAIV2107,Balanced Growth GBP,False,,False
+37918,458,TAIV2110,Balanced Growth GBP,False,,False
+37919,458,TAIV2113,Balanced Growth GBP,False,,False
+37920,458,TAIV2116,Growth USD,False,,False
+37921,458,TAIV2119,Conservative Balanced USD,False,,False
+37922,458,TAIV2122,Balanced Growth USD,False,,False
+37923,458,TAIV2128,Growth GBP,False,,False
+37924,458,TAIV2137,Balanced Growth GBP,False,,False
+37925,458,TAIV2140,Balanced Growth USD,False,,False
+37926,458,TAIV2146,Balanced Growth USD,False,,False
+37927,458,TAIV2149,Balanced Growth USD,False,,False
+37928,458,TAIV2155,Balanced Growth USD,False,,False
+37929,458,TAIV2158,Balanced Growth GBP,False,,False
+37930,458,TAIV2161,Balanced Growth USD,False,,False
+37931,458,TAIV2164,Growth USD,True,assetClass_Equity,False
+37932,458,TAIV2173,Balanced Growth GBP,False,,False
+37933,458,TAIV2179,Balanced Growth GBP,False,,False
+37934,458,TAIV2182,Balanced Growth GBP,False,,False
+37935,458,TAIV2191,Conservative Balanced USD,True,assetClass_Equity,False
+37936,458,TAIV2200,Balanced Growth GBP,False,,False
+37937,458,TAIV2201,Balanced Growth USD,False,,False
+37938,458,TAIV2203,Conservative Balanced USD,False,,False
+37939,458,TAIV2206,Balanced Growth USD,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37940,458,TAIV2209,Balanced Growth GBP,False,,False
+37941,458,TAIV2210,Growth GBP,False,,False
+37942,458,TAIV2211,Growth USD,False,,False
+37943,458,TAIV2215,Balanced Growth GBP,False,,False
+37944,458,TAIV2218,Balanced Growth GBP,False,,False
+37945,458,TAIV2221,Balanced Growth GBP,False,,False
+37946,458,TAIV2224,Balanced Growth GBP,False,,False
+37947,458,TAIV2227,Balanced Growth GBP,False,,False
+37948,458,TAIV2227A,Balanced Growth USD,False,,False
+37949,458,TAIV2230,Balanced Growth GBP,False,,False
+37950,458,TAIV2233,Balanced Growth GBP,False,,False
+37951,458,TAIV2236,Balanced Growth GBP,False,,False
+37952,458,TAIV2239,Balanced Growth GBP,False,,False
+37953,458,TAIV2245,Balanced Growth GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+37954,458,TAIV2248,Growth GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+37955,458,TAIV2254,Conservative Balanced GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37956,458,TAIV2263,Balanced Growth GBP,False,,False
+37957,458,TAIV2266,Balanced Growth GBP,False,,False
+37958,458,TAIV2269,Balanced Growth USD,False,,False
+37959,458,TAIV2269A,Balanced Growth GBP,False,,False
+37960,458,TAIV2281,Balanced Growth USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+37961,458,TAIV2284,Balanced Growth USD,False,,False
+37962,458,TAIV2293,Conservative Balanced USD,False,,False
+37963,458,TAIV2314,Balanced Growth GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+37964,458,TAIV2317,Balanced Growth GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+37965,458,TAIV2332,Balanced Growth USD,False,,False
+37966,458,TAIV2332B,Balanced Growth EUR,False,,False
+37967,458,TAIV2338,Balanced Growth GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+37968,458,TAIV2347,Growth USD,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37969,458,TAIV2353,Balanced Growth GBP,False,,False
+37970,458,TAIV2356,Balanced Growth GBP,False,,False
+37971,458,TAIV2362,Conservative Balanced GBP,False,,False
+37972,458,TAIV2365,Balanced Growth USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+37973,458,TAIV2368,Balanced Growth USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+37974,458,TAIV2374,Balanced Growth GBP,False,,False
+37975,458,TAIV2392,Balanced Growth USD,False,,False
+37976,458,TAIV2401,Growth USD,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37977,458,TAIV2401A,Growth GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+37978,458,TAIVD1522,Balanced Growth GBP,False,,False
+37979,458,TAIVD1555,Conservative Balanced GBP,False,,False
+37980,458,TAIVD1582,Balanced Growth USD,False,,False
+37981,458,TAIVD1588,Balanced Growth GBP,False,,False
+37982,458,TAIVD1633,Growth USD,False,,False
+37983,458,TAIVD1636,Balanced Growth GBP,False,,False
+37984,458,TAIVD1637,Balanced Growth USD,True,"assetClass_Equity, tracking error drift",False
+37985,458,TAIVD1638,Balanced Growth EUR,False,,False
+37986,458,TAIVD1642,Balanced Growth USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+37987,458,TAIVD1645,Balanced Growth USD,False,,False
+37988,458,TAIVD1654,Conservative Balanced USD,False,,False
+37989,458,TAIVD1675,Growth GBP,False,,False
+37990,458,TAIVD1681,Balanced Growth USD,False,,False
+37991,458,TAIVD1684,Growth GBP,False,,False
+37992,458,TAIVD1690,Growth USD,False,,False
+37993,458,TAIVD1693,Growth USD,False,,False
+37994,458,TAIVD1702,Conservative Balanced GBP,False,,False
+37995,458,TAIVD1720,Balanced Growth USD,False,,False
+37996,458,TAIVD1753,Growth GBP,False,,False
+37997,458,TAIVD1765,Balanced Growth GBP,False,,False
+37998,458,TAIVD1771,Balanced Growth GBP,False,,False
+37999,458,TAIVD1774,Balanced Growth GBP,True,"assetClass_Equity, tracking error drift",False
+38000,458,TAIVD1777,Balanced Growth GBP,False,,False
+38001,458,TAIVD1789,Balanced Growth USD,False,,False
+38002,458,TAIVD1792,Conservative Balanced GBP,False,,False
+38003,458,TAIVD1795,Conservative Balanced GBP,False,,False
+38004,458,TAIVD1798,Conservative Balanced GBP,False,,False
+38005,458,TAIVD1807,Conservative Balanced USD,False,,False
+38006,458,TAIVD1822,Balanced Growth USD,False,,False
+38007,458,TAIVD1828,Balanced Growth USD,False,,False
+38008,458,TAIVD1834,Conservative Balanced USD,False,,False
+38009,458,TAIVD1837,Conservative Balanced GBP,False,,False
+38010,458,TAIVD1843,Balanced Growth USD,False,,False
+38011,458,TAIVD1852,Balanced Growth USD,False,,False
+38012,458,TAIVD1858,Balanced Growth GBP,False,,False
+38013,458,TAIVD1859,Balanced Growth USD,False,,False
+38014,458,TAIVD1870,Conservative Balanced GBP,False,,False
+38015,458,TAIVD1873,Balanced Growth USD,False,,False
+38016,458,TAIVD1882,Balanced Growth USD,False,,False
+38017,458,TAIVD1891,Balanced Growth USD,False,,False
+38018,458,TAIVD1897,Balanced Growth GBP,False,,False
+38019,458,TAIVD1900,Balanced Growth GBP,False,,False
+38020,458,TAIVD1903,Balanced Growth GBP,False,,False
+38021,458,TAIVD1909,Balanced Growth USD,False,,False
+38022,458,TAIVD1912,Balanced Growth GBP,False,,False
+38023,458,TAIVD1915,Conservative Balanced GBP,False,,False
+38024,458,TAIVD1942,Balanced Growth USD,False,,False
+38025,458,TAIVD1945,Balanced Growth USD,False,,False
+38026,458,TAIVD1951,Balanced Growth GBP,False,,False
+38027,458,TAIVD1954,Conservative Balanced USD,False,,False
+38028,458,TAIVD1960,Conservative Balanced GBP,False,,False
+38029,458,TAIVD1963,Balanced Growth GBP,False,,False
+38030,458,TAIVD1978,Balanced Growth USD,False,,False
+38031,458,TAIVD1981,Growth USD,False,,False
+38032,458,TAIVD1982,Growth GBP,False,,False
+38033,458,TAIVD1984,Growth USD,False,,False
+38034,458,TAIVD1996,Balanced Growth GBP,False,,False
+38035,458,TAIVD2005,Balanced Growth USD,False,,False
+38036,458,TAIVD2011,Growth USD,False,,False
+38037,458,TAIVD2023,Growth GBP,False,,False
+38038,458,TAIVD2029,Conservative Balanced GBP,False,,False
+38039,458,TAIVD2041,Balanced Growth USD,False,,False
+38040,458,TAIVD2044,Growth USD,False,,False
+38041,458,TAIVD2047,Growth USD,True,assetClass_Equity,False
+38042,458,TAIVD2056,Growth USD,False,,False
+38043,458,TAIVD2074,Balanced Growth USD,False,,False
+38044,458,TAIVD2083,Conservative Balanced USD,False,,False
+38045,458,TAIVD2095,Balanced Growth USD,False,,False
+38046,458,TAIVD2125,Growth GBP,False,,False
+38047,458,TAIVD2131,Conservative Balanced GBP,False,,False
+38048,458,TAIVD2134,Balanced Growth GBP,False,,False
+38049,458,TAIVD2143,Growth USD,False,,False
+38050,458,TAIVD2167,Growth USD,False,,False
+38051,458,TAIVD2170,Balanced Growth USD,False,,False
+38052,458,TAIVD2176,Growth GBP,False,,False
+38053,458,TAIVD2185,Balanced Growth USD,False,,False
+38054,458,TAIVD2188,Conservative Balanced GBP,False,,False
+38055,458,TAIVD2197,Conservative Balanced GBP,False,,False
+38056,458,TAIVD2212,Growth GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38057,458,TAIVD2242,Balanced Growth GBP,False,,False
+38058,458,TAIVD2251,Growth USD,False,,False
+38059,458,TAIVD2257,Balanced Growth USD,False,,False
+38060,458,TAIVD2260,Balanced Growth USD,False,,False
+38061,458,TAIVD2275,Conservative Balanced USD,False,,False
+38062,458,TAIVD2278,Balanced Growth GBP,False,,False
+38063,458,TAIVD2287,Balanced Growth GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38064,458,TAIVD2296,Balanced Growth USD,False,,False
+38065,458,TAIVD2302,Balanced Growth USD,False,,False
+38066,458,TAIVD2311,Growth USD,False,,False
+38067,458,TAIVD2312,Growth GBP,False,,False
+38068,458,TAIVD2329,Growth GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38069,458,TAIVD2344,Balanced Growth USD,False,,False
+38070,458,TAIVD2350,Conservative Balanced USD,False,,False
+38071,458,TAIVD2359,Balanced Growth USD,False,,False
+38072,458,TAIVD2371,Balanced Growth USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+38073,458,TAIVD2377,Balanced Growth USD,False,,False
+38074,458,TAIVD2380,Balanced Growth GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38075,458,TAIVD2413,Balanced Growth USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+38076,458,TAIVR5012,Focus Growth USD,True,"assetClass_Equity, risk drift, tracking error drift",False
+38077,458,TAKO1268Ji,Balanced / FF 4 GBP,False,,False
+38078,458,TAKO9167Ji,Balanced / FF 4 GBP,False,,False
+38079,458,TAL00001Ji,Adventurous / FF 6 GBP,False,,False
+38080,458,TAL00002Ji,Adventurous / FF 6 GBP,False,,False
+38081,458,TAM050063B,Balanced / FF 4 GBP,False,,False
+38082,458,TAM050073,Balanced / FF 4 GBP,False,,False
+38083,458,TAM050075,Growth / FF 5 GBP,False,,False
+38084,458,TAM050124i,Growth / FF 5 GBP,False,,False
+38085,458,TAM050140i,Growth / FF 5 GBP,False,,False
+38086,458,TAM050141i,Growth / FF 5 GBP,False,,False
+38087,458,TAM050148,Balanced High Inc GBP,False,,False
+38088,458,TAM050159C,ESG Cautious GBP,False,,False
+38089,458,TAM050159CD,ESG Balanced GBP,False,,False
+38090,458,TAM050159D,Cautious / FF 3 GBP,False,,False
+38091,458,TAM050159F,Cautious / FF 3 GBP,False,,False
+38092,458,TAM050159G,Cautious / FF 3 GBP,False,,False
+38093,458,TAM050159K,Cautious / FF 3 GBP,False,,False
+38094,458,TAM050159M,Cautious / FF 3 GBP,False,,False
+38095,458,TAM050159S,ESG Balanced GBP,False,,False
+38096,458,TAM050424,Cautious / FF 3 GBP (LifeCo Custody),False,,False
+38097,458,TAM050426,Balanced EUR,False,,False
+38098,458,TAM050430,Balanced / FF 4 GBP,False,,False
+38099,458,TAM050435,Balanced / FF 4 GBP,False,,False
+38100,458,TAM050444,Growth / FF 5 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38101,458,TAM050451,Balanced / FF 4 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38102,458,TAM050456,Growth / FF 5 GBP (LifeCo Custody),True,", non strategy volatility drift, non strategy assets drift",False
+38103,458,TAM050463,Growth / FF 5 GBP (LifeCo Custody),False,,False
+38104,458,TAM050464,Speculative / FF 7 GBP (LifeCo Custody),False,,False
+38105,458,TAM050471,Balanced / FF 4 GBP (LifeCo Custody),True,", non strategy volatility drift, non strategy assets drift",False
+38106,458,TAM050474,EU Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38107,458,TAM050479,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38108,458,TAM050481,EU Adventurous GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38109,458,TAM050489,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38110,458,TAM050490,Adventurous / FF 6 GBP,False,,False
+38111,458,TAM050499,Adventurous / FF 6 GBP,False,,False
+38112,458,TAM050505,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38113,458,TAM050507,Growth / FF 5 GBP,False,,False
+38114,458,TAM050509,EU Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38115,458,TAM050511i,Balanced / FF 4 GBP,False,,False
+38116,458,TAM050512,Balanced / FF 4 GBP,False,,False
+38117,458,TAM050519,EU Defensive GBP,True,", tracking error drift",False
+38118,458,TAM050521,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38119,458,TAM050525,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38120,458,TAM050526,EU Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38121,458,TAM050530i,Balanced / FF 4 GBP,False,,False
+38122,458,TAM050531i,Adventurous / FF 6 GBP,False,,False
+38123,458,TAM050534,EU Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38124,458,TAM050536,EU Adventurous GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38125,458,TAM050541,EU Cautious GBP,False,,False
+38126,458,TAM050543,EU Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38127,458,TAM050545,EU Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38128,458,TAM050551,Cautious / FF 3 GBP,False,,False
+38129,458,TAM050556,EU Balanced GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38130,458,TAM050557,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38131,458,TAM050560,Growth / FF 5 GBP,False,,False
+38132,458,TAM050562,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38133,458,TAM050566,EU Balanced GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38134,458,TAM050567,EU Adventurous GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38135,458,TAM050570,EU Defensive GBP,True,", tracking error drift",False
+38136,458,TAM050571,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38137,458,TAM050573,Balanced / FF 4 GBP,False,,False
+38138,458,TAM050574,Balanced EUR,False,,False
+38139,458,TAM050587,EU Balanced GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38140,458,TAM050591,EU Defensive GBP,True,", tracking error drift",False
+38141,458,TAM050592,Cautious / FF 3 GBP,False,,False
+38142,458,TAM050598i,Growth / FF 5 GBP,False,,False
+38143,458,TAM050601,Cautious / FF 3 GBP,False,,False
+38144,458,TAM050605,Balanced / FF 4 GBP,False,,False
+38145,458,TAM050613,Growth / FF 5 GBP (LifeCo Custody),True,", non strategy volatility drift, non strategy assets drift",False
+38146,458,TAM050615,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38147,458,TAM050616,Growth / FF 5 GBP,False,,False
+38148,458,TAM050617i,Growth / FF 5 GBP,False,,False
+38149,458,TAM050618,Growth / FF 5 GBP,False,,False
+38150,458,TAM050619i,Sharia Growth GBP,False,,False
+38151,458,TAM050620i,Sharia Growth GBP,False,,False
+38152,458,TAM050626i,Sharia Growth GBP,False,,False
+38153,458,TAM050627,Balanced / FF 4 GBP,False,,False
+38154,458,TAM05062Ti,Balanced / FF 4 GBP,False,,False
+38155,458,TAM050634,Sharia Cautious GBP,False,,False
+38156,458,TAM050635i,Sharia Cautious GBP,False,,False
+38157,458,TAM050638,Defensive / FF 2 GBP,False,,False
+38158,458,TAM050641,Balanced / FF 4 GBP,False,,False
+38159,458,TAM050644A,Sharia Balanced GBP,False,,False
+38160,458,TAM050644B,Sharia Growth GBP,False,,False
+38161,458,TAM050645i,Cautious / FF 3 GBP,False,,False
+38162,458,TAM050647,Balanced / FF 4 GBP,False,,False
+38163,458,TAM050648,Growth / FF 5 GBP,False,,False
+38164,458,TAM050650,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38165,458,TAM050653,Sharia Balanced GBP,False,,False
+38166,458,TAM050655,Sharia Defensive GBP,False,,False
+38167,458,TAM050656,Growth / FF 5 GBP,False,,False
+38168,458,TAM050658,EU Balanced GBP,True,", tracking error drift",False
+38169,458,TAM050659,Balanced / FF 4 GBP,False,,False
+38170,458,TAM050660,Cautious / FF 3 GBP,True,", tracking error drift",False
+38171,458,TAM050661,Balanced / FF 4 GBP,False,,False
+38172,458,TAM050662,Cautious / FF 3 GBP,False,,False
+38173,458,TAM050664,Balanced EUR,False,,False
+38174,458,TAM050667,Sharia Cautious GBP,False,,False
+38175,458,TAM050668,Sharia Balanced GBP,False,,False
+38176,458,TAM050669,EU Balanced GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38177,458,TAM050670,Sharia Cautious GBP,False,,False
+38178,458,TAM050671i,Balanced / FF 4 GBP,False,,False
+38179,458,TAM050673,Balanced / FF 4 GBP,False,,False
+38180,458,TAM050674,Balanced / FF 4 GBP,False,,False
+38181,458,TAM050675,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38182,458,TAM050676,EU Balanced GBP,True,", tracking error drift",False
+38183,458,TAM050677,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38184,458,TAM05067TG,Balanced / FF 4 GBP,False,,False
+38185,458,TAM05067Ti,Balanced / FF 4 GBP,False,,False
+38186,458,TAM050680,Sharia Balanced GBP,False,,False
+38187,458,TAM050681,EU Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38188,458,TAM050682,Balanced / FF 4 GBP,False,,False
+38189,458,TAM050683,Sharia Cautious GBP,False,,False
+38190,458,TAM050684,Balanced / FF 4 GBP,False,,False
+38191,458,TAM050685,Sharia Cautious GBP,False,,False
+38192,458,TAM050686,Growth / FF 5 GBP,False,,False
+38193,458,TAM050689i,Balanced / FF 4 GBP,False,,False
+38194,458,TAM05068T,Balanced / FF 4 GBP,False,,False
+38195,458,TAM05068Ti,Balanced / FF 4 GBP,False,,False
+38196,458,TAM050691,Sharia Cautious GBP,False,,False
+38197,458,TAM050692,Sharia Cautious GBP,False,,False
+38198,458,TAM050693i,Sharia Cautious GBP,False,,False
+38199,458,TAM050694i,Sharia Cautious GBP,False,,False
+38200,458,TAM050695,Sharia Cautious GBP,False,,False
+38201,458,TAM050696,EU Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38202,458,TAM050697,Sharia Cautious GBP,False,,False
+38203,458,TAM050702,Balanced / FF 4 GBP,False,,False
+38204,458,TAM050703,Sharia Growth GBP,False,,False
+38205,458,TAM050704,Sharia Growth GBP,False,,False
+38206,458,TAM050705,Balanced / FF 4 GBP,False,,False
+38207,458,TAM050706,Balanced / FF 4 GBP,False,,False
+38208,458,TAM050707,Balanced / FF 4 GBP,False,,False
+38209,458,TAM050709,Sharia Cautious GBP,False,,False
+38210,458,TAM05070T,Balanced / FF 4 GBP,False,,False
+38211,458,TAM050711,EU Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38212,458,TAM050712,Sharia Cautious GBP,False,,False
+38213,458,TAM050714,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38214,458,TAM050715,Balanced / FF 4 GBP,False,,False
+38215,458,TAM050718,Premier Balanced USD,False,,False
+38216,458,TAM05071T,Balanced / FF 4 GBP,False,,False
+38217,458,TAM05071TE,Balanced / FF 4 GBP,False,,False
+38218,458,TAM05071Ti,Balanced / FF 4 GBP,False,,False
+38219,458,TAM050721,EU Balanced GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38220,458,TAM050722,Cautious / FF 3 GBP,False,,False
+38221,458,TAM050724,Premier Cautious USD,False,,False
+38222,458,TAM050725,Sharia Growth GBP,False,,False
+38223,458,TAM050727,Sharia Cautious GBP,False,,False
+38224,458,TAM050728,Balanced / FF 4 GBP,False,,False
+38225,458,TAM050729,Premier Balanced USD,False,,False
+38226,458,TAM05072T,Balanced / FF 4 GBP,False,,False
+38227,458,TAM05072TA,Balanced / FF 4 GBP,False,,False
+38228,458,TAM050730,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38229,458,TAM050731,Cautious / FF 3 GBP,False,,False
+38230,458,TAM050732,Sharia Growth GBP,False,,False
+38231,458,TAM050734,EU Balanced GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38232,458,TAM050739,Balanced / FF 4 GBP,False,,False
+38233,458,TAM05073Ti,Balanced / FF 4 GBP,False,,False
+38234,458,TAM050740,Sharia Cautious GBP,False,,False
+38235,458,TAM050741,Sharia Defensive GBP,False,,False
+38236,458,TAM050744,Sharia Balanced GBP,False,,False
+38237,458,TAM050745,Sharia Growth GBP,False,,False
+38238,458,TAM050746,Balanced / FF 4 GBP,False,,False
+38239,458,TAM050747AP,Balanced / FF 4 GBP,False,,False
+38240,458,TAM050747i,Balanced / FF 4 GBP,False,,False
+38241,458,TAM050748,Sharia Defensive GBP,False,,False
+38242,458,TAM050749,Balanced / FF 4 GBP,False,,False
+38243,458,TAM050750,EU Balanced GBP,True,", tracking error drift",False
+38244,458,TAM050751,Sharia Balanced GBP,False,,False
+38245,458,TAM050752,EU Balanced GBP,True,", tracking error drift",False
+38246,458,TAM050753,Sharia Balanced GBP,False,,False
+38247,458,TAM050755,Sharia Defensive GBP,False,,False
+38248,458,TAM050756,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38249,458,TAM050757,Sharia Balanced GBP,False,,False
+38250,458,TAM050759,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38251,458,TAM05075T,Balanced / FF 4 GBP,False,,False
+38252,458,TAM050762,EU Balanced GBP,True,", tracking error drift",False
+38253,458,TAM050768,Balanced / FF 4 GBP,False,,False
+38254,458,TAM050769i,Balanced / FF 4 GBP,False,,False
+38255,458,TAM050771,Sharia Cautious GBP,False,,False
+38256,458,TAM050773,Sharia Balanced GBP,False,,False
+38257,458,TAM050774,Sharia Adventurous GBP,False,,False
+38258,458,TAM050775,Sharia Balanced GBP,False,,False
+38259,458,TAM050776,Sharia Cautious GBP,False,,False
+38260,458,TAM050777i,Sharia Balanced GBP,False,,False
+38261,458,TAM050778i,Sharia Balanced GBP,False,,False
+38262,458,TAM05077T,Balanced / FF 4 GBP,False,,False
+38263,458,TAM05077TA,Balanced / FF 4 GBP,False,,False
+38264,458,TAM050780i,Cautious / FF 3 GBP,False,,False
+38265,458,TAM050782,EU Balanced GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38266,458,TAM050783,Growth / FF 5 GBP,False,,False
+38267,458,TAM050784,Sharia Balanced GBP,False,,False
+38268,458,TAM050787,Sharia Adventurous GBP,False,,False
+38269,458,TAM050792,Sharia Balanced GBP,False,,False
+38270,458,TAM050795,Balanced / FF 4 GBP (LifeCo Custody),True,", non strategy volatility drift, non strategy assets drift",False
+38271,458,TAM050796,Adventurous / FF 6 GBP,False,,False
+38272,458,TAM050797,Balanced / FF 4 GBP,False,,False
+38273,458,TAM05079T,Balanced / FF 4 GBP,False,,False
+38274,458,TAM050801,Sharia Adventurous GBP,False,,False
+38275,458,TAM050804,Balanced / FF 4 GBP,False,,False
+38276,458,TAM050806,Sharia Balanced GBP,False,,False
+38277,458,TAM050807,Sharia Balanced GBP,False,,False
+38278,458,TAM050809,Sharia Balanced GBP,False,,False
+38279,458,TAM050810,Sharia Adventurous GBP,False,,False
+38280,458,TAM050811,Balanced / FF 4 GBP,False,,False
+38281,458,TAM050813,Adventurous / FF 6 GBP,False,,False
+38282,458,TAM050815,Sharia Growth GBP,False,,False
+38283,458,TAM050816,Balanced / FF 4 GBP,False,,False
+38284,458,TAM050817,Sharia Growth GBP,False,,False
+38285,458,TAM050819i,Sharia Defensive GBP,False,,False
+38286,458,TAM05081T,Balanced / FF 4 GBP,False,,False
+38287,458,TAM050820,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38288,458,TAM050821,Sharia Growth GBP,False,,False
+38289,458,TAM050825,Sharia Balanced GBP,True,", tracking error drift",False
+38290,458,TAM050826,Sharia Cautious GBP,False,,False
+38291,458,TAM050827i,Sharia Cautious GBP,False,,False
+38292,458,TAM050829i,Balanced / FF 4 GBP,False,,False
+38293,458,TAM050830,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38294,458,TAM050831,Growth / FF 5 GBP,False,,False
+38295,458,TAM050833,Balanced / FF 4 GBP,False,,False
+38296,458,TAM050835i,Sharia Growth GBP,False,,False
+38297,458,TAM050837,Sharia Balanced GBP,False,,False
+38298,458,TAM050838,Sharia Balanced GBP,False,,False
+38299,458,TAM050839,Balanced / FF 4 GBP,False,,False
+38300,458,TAM050840,EU Balanced GBP,True,", tracking error drift",False
+38301,458,TAM050843,Growth / FF 5 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38302,458,TAM050844,Growth / FF 5 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38303,458,TAM050845,Premier Balanced USD,False,,False
+38304,458,TAM050847,Sharia Balanced GBP,False,,False
+38305,458,TAM050848i,Sharia Cautious GBP,False,,False
+38306,458,TAM050849,EU Balanced GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38307,458,TAM050850,Balanced / FF 4 GBP,False,,False
+38308,458,TAM050851,Sharia Balanced GBP,False,,False
+38309,458,TAM050852,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38310,458,TAM050853,Balanced High Inc GBP,False,,False
+38311,458,TAM050854,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38312,458,TAM050855,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38313,458,TAM050858,Sharia Balanced GBP,False,,False
+38314,458,TAM050861,Sharia Growth GBP,False,,False
+38315,458,TAM050862,Balanced / FF 4 GBP,False,,False
+38316,458,TAM050863,Sharia Balanced GBP,False,,False
+38317,458,TAM050865,Balanced / FF 4 GBP (LifeCo Custody),True,"assetClass_Equity, risk drift, tracking error drift",False
+38318,458,TAM050867,Sharia Balanced GBP,False,,False
+38319,458,TAM050868,Balanced / FF 4 GBP,False,,False
+38320,458,TAM05086T,Balanced / FF 4 GBP,False,,False
+38321,458,TAM050870,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38322,458,TAM050872,Balanced / FF 4 GBP,False,,False
+38323,458,TAM050876,Sharia Cautious GBP,False,,False
+38324,458,TAM050878,Growth / FF 5 GBP,False,,False
+38325,458,TAM050879,Growth / FF 5 GBP,False,,False
+38326,458,TAM050880,Balanced High Income (LifeCo & EU),True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38327,458,TAM050881,Sharia Balanced GBP,False,,False
+38328,458,TAM050882,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38329,458,TAM050883,Balanced / FF 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38330,458,TAM050884i,Sharia Growth GBP,False,,False
+38331,458,TAM050885i,Sharia Growth GBP,False,,False
+38332,458,TAM050887i,Sharia Growth GBP,False,,False
+38333,458,TAM050890,Growth / FF 5 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38334,458,TAM050894i,Sharia Cautious GBP,False,,False
+38335,458,TAM050895,Balanced / FF 4 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38336,458,TAM050897,Balanced / FF 4 GBP,False,,False
+38337,458,TAM050898,Sharia Balanced GBP,False,,False
+38338,458,TAM050899,Balanced / FF 4 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38339,458,TAM050900,Sharia Balanced GBP,False,,False
+38340,458,TAM050901,Balanced / FF 4 GBP,False,,False
+38341,458,TAM050903,Balanced / FF 4 GBP (LifeCo Custody),False,,False
+38342,458,TAM050904,Balanced / FF 4 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38343,458,TAM050905,Sharia Adventurous GBP,False,,False
+38344,458,TAM050906,Balanced High Inc GBP,False,,False
+38345,458,TAM050907i,Sharia Balanced GBP,False,,False
+38346,458,TAM050908i,Sharia Balanced GBP,False,,False
+38347,458,TAM05090TA,Cautious / FF 3 GBP,True,", tracking error drift",False
+38348,458,TAM05090Ti,Cautious / FF 3 GBP,False,,False
+38349,458,TAM050910,Balanced / FF 4 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38350,458,TAM050911,Balanced / FF 4 GBP (LifeCo Pershing Custody),True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38351,458,TAM050912,Balanced / FF 4 GBP,False,,False
+38352,458,TAM050913,Adventurous / FF 6 GBP,False,,False
+38353,458,TAM050914,Cautious / FF 3 GBP,True,", tracking error drift",False
+38354,458,TAM050916,Balanced EUR,False,,False
+38355,458,TAM050917i,Balanced / FF 4 GBP,False,,False
+38356,458,TAM050919i,Sharia Growth GBP,False,,False
+38357,458,TAM050920i,Sharia Growth GBP,False,,False
+38358,458,TAM050921i,Sharia Balanced GBP,False,,False
+38359,458,TAM050922,Sharia Adventurous GBP,False,,False
+38360,458,TAM050922i,Sharia Adventurous GBP,False,,False
+38361,458,TAM050923,EU Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38362,458,TAM050925,Sharia Balanced GBP,False,,False
+38363,458,TAM050926,Sharia Cautious GBP,False,,False
+38364,458,TAM050927,Sharia Balanced GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38365,458,TAM050927i,Sharia Balanced GBP,False,,False
+38366,458,TAM050928,Sharia Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38367,458,TAM050928i,Sharia Growth GBP,False,,False
+38368,458,TAM050929,Sharia Growth GBP,False,,False
+38369,458,TAM05092T,Balanced / FF 4 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38370,458,TAM05092Ti,Balanced / FF 4 GBP,False,,False
+38371,458,TAM050930,Sharia Growth GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38372,458,TAM050930i,Sharia Growth GBP,False,,False
+38373,458,TAM050931,Sharia Balanced GBP,False,,False
+38374,458,TAM050932,EU Balanced GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38375,458,TAM050933,Sharia Cautious GBP,False,,False
+38376,458,TAM050933A,Sharia Defensive GBP,False,,False
+38377,458,TAM050934,Balanced / FF 4 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38378,458,TAM050935,EU Balanced GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38379,458,TAM050936,Sharia Cautious GBP,False,,False
+38380,458,TAM050937,Sharia Cautious GBP,True,", tracking error drift",False
+38381,458,TAM050938i,Sharia Growth GBP,False,,False
+38382,458,TAM050939i,Sharia Balanced GBP,False,,False
+38383,458,TAM050940,Sharia Growth GBP,False,,False
+38384,458,TAM050940i,Sharia Growth GBP,False,,False
+38385,458,TAM050941,Sharia Balanced GBP,False,,False
+38386,458,TAM050941i,Sharia Adventurous GBP,False,,False
+38387,458,TAM050942,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38388,458,TAM050943,EU Balanced GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38389,458,TAM050944i,Sharia Growth GBP,False,,False
+38390,458,TAM050945,EU Growth GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38391,458,TAM050946i,Sharia Growth GBP,False,,False
+38392,458,TAM050947,Sharia Growth GBP,False,,False
+38393,458,TAM050949,Sharia Growth GBP,False,,False
+38394,458,TAM050952i,Sharia Cautious GBP,True,", tracking error drift",False
+38395,458,TAM050953i,Sharia Balanced GBP,False,,False
+38396,458,TAM050954,Cautious / FF 3 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38397,458,TAM050955,Sharia Balanced GBP,False,,False
+38398,458,TAM050956i,Sharia Growth GBP,False,,False
+38399,458,TAM050958i,Sharia Adventurous GBP,False,,False
+38400,458,TAM050959i,Cautious / FF 3 GBP,False,,False
+38401,458,TAM050961,Sharia Adventurous GBP,False,,False
+38402,458,TAM050962,Sharia Adventurous GBP,False,,False
+38403,458,TAM050963,Sharia Balanced GBP,False,,False
+38404,458,TAM050964,Balanced / FF 4 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38405,458,TAM050965,Sharia Growth GBP,False,,False
+38406,458,TAM050966i,Cautious / FF 3 GBP,False,,False
+38407,458,TAM050967,Sharia Growth GBP,False,,False
+38408,458,TAM050968,Sharia Growth GBP,False,,False
+38409,458,TAM050969,Sharia Growth GBP,False,,False
+38410,458,TAM050970,Cautious / FF 3 GBP,True,", tracking error drift",False
+38411,458,TAM050972,Sharia Growth GBP,False,,False
+38412,458,TAM050973,Sharia Balanced GBP,False,,False
+38413,458,TAM050974,Sharia Growth GBP,False,,False
+38414,458,TAM050975,Cautious / FF 3 GBP,False,,False
+38415,458,TAM050976,Cautious / FF 3 GBP,False,,False
+38416,458,TAM050977,Sharia Balanced GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38417,458,TAM050978,Balanced / FF 4 GBP,False,,False
+38418,458,TAM050979,Sharia Balanced GBP,False,,False
+38419,458,TAM050980,Cautious / FF 3 GBP,False,,False
+38420,458,TAM050981,Sharia Cautious GBP,False,,False
+38421,458,TAM050982,Sharia Growth GBP,False,,False
+38422,458,TAM050985,Balanced / FF 4 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38423,458,TAM050986i,Sharia Growth GBP,False,,False
+38424,458,TAM050987,Sharia Adventurous GBP,False,,False
+38425,458,TAM050988i,Sharia Growth GBP,False,,False
+38426,458,TAM050989,Sharia Adventurous GBP,False,,False
+38427,458,TAM050990i,Cautious / FF 3 GBP,False,,False
+38428,458,TAM050991,Balanced / FF 4 GBP,False,,False
+38429,458,TAM050992i,Cautious / FF 3 GBP,False,,False
+38430,458,TAM050993,Sharia Cautious GBP,False,,False
+38431,458,TAM050993i,Sharia Cautious GBP,False,,False
+38432,458,TAM050994,Sharia Balanced GBP,False,,False
+38433,458,TAM050995,Sharia Balanced GBP,False,,False
+38434,458,TAM050996i,Sharia Balanced GBP,False,,False
+38435,458,TAM050997,Sharia Balanced GBP,False,,False
+38436,458,TAM050998,Sharia Balanced GBP,False,,False
+38437,458,TAM051001i,Sharia Cautious GBP,False,,False
+38438,458,TAM05106TA,Balanced / FF 4 GBP,False,,False
+38439,458,TAM05108TE,Balanced / FF 4 GBP,False,,False
+38440,458,TAM05112TA,Balanced / FF 4 GBP,False,,False
+38441,458,TAM05115Ti,Balanced / FF 4 GBP,False,,False
+38442,458,TAM05117Ti,Balanced / FF 4 GBP,False,,False
+38443,458,TAM05118Ti,Balanced / FF 4 GBP,False,,False
+38444,458,TAM05119TH,Cautious / FF 3 GBP,False,,False
+38445,458,TAM05119Ti,Balanced / FF 4 GBP,False,,False
+38446,458,TAM05120T,Cautious / FF 3 GBP,False,,False
+38447,458,TAM05121TA,Balanced / FF 4 GBP,False,,False
+38448,458,TAM05123Ti,Balanced / FF 4 GBP,False,,False
+38449,458,TAM05124Ti,Balanced / FF 4 GBP,False,,False
+38450,458,TAM05125T,Balanced / FF 4 GBP,False,,False
+38451,458,TAM05125Ti,ESG Balanced GBP,False,,False
+38452,458,TAM05126Ti,Adventurous / FF 6 GBP,False,,False
+38453,458,TAM05128T,Balanced / FF 4 GBP,False,,False
+38454,458,TAM05128TA,Balanced / FF 4 GBP,False,,False
+38455,458,TAM05129Ti,Cautious / FF 3 GBP,False,,False
+38456,458,TAM05142T,Cautious / FF 3 GBP,False,,False
+38457,458,TAM05149T,Cautious / FF 3 GBP,False,,False
+38458,458,TAM05154T,Defensive / FF 2 GBP,False,,False
+38459,458,TAM05158TS,Cautious / FF 3 GBP,False,,False
+38460,458,TAM05159T,Balanced / FF 4 GBP,False,,False
+38461,458,TAM05161T,Cautious / FF 3 GBP,False,,False
+38462,458,TAM05164Ti,Cautious / FF 3 GBP,False,,False
+38463,458,TAM05165Ti,Cautious / FF 3 GBP,False,,False
+38464,458,TAM05166T,Cautious / FF 3 GBP,True,", tracking error drift",False
+38465,458,TAM05167T,Cautious / FF 3 GBP,True,", tracking error drift",False
+38466,458,TAM05181T,Cautious / FF 3 GBP,True,", tracking error drift",False
+38467,458,TAM05186T,Cautious / FF 3 GBP,False,,False
+38468,458,TAM05197T,Cautious / FF 3 GBP,True,", tracking error drift",False
+38469,458,TAM05199T,Defensive / FF 2 GBP,False,,False
+38470,458,TAM05205Ti,Cautious / FF 3 GBP,False,,False
+38471,458,TAM05232Fi,Cautious / FF 3 GBP,False,,False
+38472,458,TAM05243Ui,Cautious / FF 3 GBP,False,,False
+38473,458,TAM05244Ui,Cautious / FF 3 GBP,False,,False
+38474,458,TAM05274B,Growth / FF 5 GBP,False,,False
+38475,458,TAM05279Bi,Growth / FF 5 GBP,False,,False
+38476,458,TAM05315F,Balanced / FF 4 GBP,True,", tracking error drift",False
+38477,458,TAM05378Fi,Cautious / FF 3 GBP,False,,False
+38478,458,TAM05381F,Defensive / FF 2 GBP,True,", risk drift, tracking error drift",False
+38479,458,TAM05384Q,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38480,458,TAM05429Q,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38481,458,TAM05443Q,Balanced EUR,False,,False
+38482,458,TAM05467Ui,Growth / FF 5 GBP,False,,False
+38483,458,TAM05468U,Adventurous / FF 6 GBP,False,,False
+38484,458,TAM05516Fi,Cautious / FF 3 GBP,False,,False
+38485,458,TAM05564Ti,Cautious / FF 3 GBP,False,,False
+38486,458,TAM05565Ti,Cautious / FF 3 GBP,False,,False
+38487,458,TAM05575T,Balanced / FF 4 GBP,False,,False
+38488,458,TAM05594T,Balanced / FF 4 GBP,False,,False
+38489,458,TAM06003Ci,Growth / FF 5 GBP,False,,False
+38490,458,TAM06033Ci,Cautious / FF 3 GBP,False,,False
+38491,458,TAM06046Ci,Cautious / FF 3 GBP,False,,False
+38492,458,TAM06054Ci,Cautious / FF 3 GBP,False,,False
+38493,458,TAM06055Ci,Balanced / FF 4 GBP,False,,False
+38494,458,TAM06056Ci,Balanced / FF 4 GBP,False,,False
+38495,458,TAM06065C,Cautious / FF 3 GBP,False,,False
+38496,458,TAM06066C,Balanced / FF 4 GBP (LifeCo Custody),True,", non strategy volatility drift, non strategy assets drift",False
+38497,458,TAM07001P,Cautious / FF 3 GBP,False,,False
+38498,458,TAM07004P,Balanced / FF 4 GBP,False,,False
+38499,458,TAM07004P01,Balanced / FF 4 GBP,False,,False
+38500,458,TAM07004P03,Balanced / FF 4 GBP,False,,False
+38501,458,TAM07004P04,Balanced / FF 4 GBP,False,,False
+38502,458,TAM07004P05,Balanced / FF 4 GBP,False,,False
+38503,458,TAM07004P06,Balanced / FF 4 GBP,False,,False
+38504,458,TAM07004P07,Balanced / FF 4 GBP,False,,False
+38505,458,TAM07004P08,Balanced / FF 4 GBP,False,,False
+38506,458,TAM07004P09,Balanced / FF 4 GBP,False,,False
+38507,458,TAM07004P10,Balanced / FF 4 GBP,False,,False
+38508,458,TAM07004P11,Balanced / FF 4 GBP,False,,False
+38509,458,TAM07004P12,Balanced / FF 4 GBP,False,,False
+38510,458,TAM07004P13,Balanced / FF 4 GBP,False,,False
+38511,458,TAM07004P14,Balanced / FF 4 GBP,False,,False
+38512,458,TAM07004P15,Balanced / FF 4 GBP,True,", tracking error drift",False
+38513,458,TAM07004P17,Balanced / FF 4 GBP,False,,False
+38514,458,TAM07004P18,Balanced / FF 4 GBP,False,,False
+38515,458,TAM07004P19,Balanced / FF 4 GBP,False,,False
+38516,458,TAMBALANCEDICAV,TAM BALANCED - UCITS ICAV,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38517,458,TAMBALICAV,TAM BALANCED - UCITS ICAV,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38518,458,TAMC0701C,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38519,458,TAMC07107A,EU Balanced GBP,True,", non strategy volatility drift, non strategy assets drift",False
+38520,458,TAMC07111A,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38521,458,TAMC07112A,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38522,458,TAMC0735A,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38523,458,TAMC0766A,Cautious EUR,False,,False
+38524,458,TAMC0792A,Balanced EUR,False,,False
+38525,458,TAMF01005,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38526,458,TAMF01009,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38527,458,TAMF01010,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38528,458,TAMF01011,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38529,458,TAMF01012,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38530,458,TAMF01017,Cautious / FF 3 GBP,False,,False
+38531,458,TAMF01018i,Cautious / FF 3 GBP,False,,False
+38532,458,TAMF01019i,Cautious / FF 3 GBP,False,,False
+38533,458,TAMF01022i,Cautious / FF 3 GBP,False,,False
+38534,458,TAMF01023i,Cautious / FF 3 GBP,False,,False
+38535,458,TAMF01025,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38536,458,TAMF01029,Balanced / FF 4 GBP,False,,False
+38537,458,TAMF01030i,Balanced / FF 4 GBP,False,,False
+38538,458,TAMF01033,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38539,458,TAMF01035i,Balanced / FF 4 GBP,False,,False
+38540,458,TAMF01043,Focus Adventurous / FF Lite 6 GBP,True,"assetClass_Equity, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38541,458,TAMF01050,Adventurous EUR,False,,False
+38542,458,TAMF01052,Balanced / FF 4 GBP,False,,False
+38543,458,TAMF01053i,Balanced / FF 4 GBP,False,,False
+38544,458,TAMF01055,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38545,458,TAMF01056i,Adventurous / FF 6 GBP,False,,False
+38546,458,TAMF01057i,Cautious / FF 3 GBP,False,,False
+38547,458,TAMF01070i,Cautious / FF 3 GBP,False,,False
+38548,458,TAMF01071i,Adventurous / FF 6 GBP,False,,False
+38549,458,TAMF01072i,Growth / FF 5 GBP,False,,False
+38550,458,TAMF01074,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38551,458,TAMF01075,Cautious / FF 3 GBP,False,,False
+38552,458,TAMF01078,Balanced / FF 4 GBP,False,,False
+38553,458,TAMF01080,Growth / FF 5 GBP,False,,False
+38554,458,TAMF01082i,Adventurous / FF 6 GBP,False,,False
+38555,458,TAMF01084,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38556,458,TAMF01086,Balanced / FF 4 GBP,False,,False
+38557,458,TAMF01087,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38558,458,TAMF01088,Growth / FF 5 GBP,False,,False
+38559,458,TAMF01090,Adventurous / FF 6 GBP (LifeCo Custody),True,", non strategy volatility drift, non strategy assets drift",False
+38560,458,TAMF01091,Balanced / FF 4 GBP,False,,False
+38561,458,TAMF01092,Growth / FF 5 GBP,False,,False
+38562,458,TAMF01093,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38563,458,TAMF01094i,Growth / FF 5 GBP,False,,False
+38564,458,TAMF01095i,Growth / FF 5 GBP,False,,False
+38565,458,TAMF01097i,Growth / FF 5 GBP,False,,False
+38566,458,TAMF01098i,Growth / FF 5 GBP,False,,False
+38567,458,TAMF01100,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38568,458,TAMF01101i,Growth / FF 5 GBP,False,,False
+38569,458,TAMF01104i,Growth / FF 5 GBP,False,,False
+38570,458,TAMF01105i,Adventurous / FF 6 GBP,False,,False
+38571,458,TAMF01106,Growth / FF 5 GBP,False,,False
+38572,458,TAMF01109,Growth / FF 5 GBP,False,,False
+38573,458,TAMF01118i,Balanced / FF 4 GBP,False,,False
+38574,458,TAMF01126,Adventurous / FF 6 GBP,False,,False
+38575,458,TAMF01131,Balanced / FF 4 GBP,False,,False
+38576,458,TAMF01134,Balanced / FF 4 GBP,False,,False
+38577,458,TAMF01135,Growth / FF 5 GBP,False,,False
+38578,458,TAMF01143i,Balanced / FF 4 GBP,False,,False
+38579,458,TAMF01144i,Balanced / FF 4 GBP,False,,False
+38580,458,TAMF01147,Balanced / FF 4 GBP,False,,False
+38581,458,TAMF01148i,Growth / FF 5 GBP,False,,False
+38582,458,TAMF01149i,Balanced / FF 4 GBP,False,,False
+38583,458,TAMF01150,Cautious / FF 3 GBP,False,,False
+38584,458,TAMF01153,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38585,458,TAMF01154,Focus Adventurous / FF Lite 6 GBP,True,"assetClass_Equity, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38586,458,TAMF01155,Balanced EUR,False,,False
+38587,458,TAMF01156,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38588,458,TAMF01158i,Cautious / FF 3 GBP,False,,False
+38589,458,TAMF01159,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38590,458,TAMF01160i,Cautious / FF 3 GBP,False,,False
+38591,458,TAMF01162,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38592,458,TAMF01163,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38593,458,TAMF01164,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38594,458,TAMF01165i,Balanced / FF 4 GBP,False,,False
+38595,458,TAMF01166,Focus Growth / FF Lite 5 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38596,458,TAMF01168,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38597,458,TAMF01172i,Cautious / FF 3 GBP,False,,False
+38598,458,TAMF01173i,Balanced / FF 4 GBP,False,,False
+38599,458,TAMF01175,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38600,458,TAMF01176,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38601,458,TAMF01177,Balanced / FF 4 GBP,False,,False
+38602,458,TAMF01178,Balanced / FF 4 GBP,False,,False
+38603,458,TAMF01181i,Balanced / FF 4 GBP,False,,False
+38604,458,TAMF01187,Focus Balanced / FF Lite 4 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38605,458,TAMF01190,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38606,458,TAMF01191,Focus Balanced / FF Lite 4 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38607,458,TAMF01192i,Balanced / FF 4 GBP,False,,False
+38608,458,TAMF01194i,Passive Balanced GBP,False,,False
+38609,458,TAMF01195i,Passive Balanced GBP,False,,False
+38610,458,TAMF01196,Cautious / FF 3 GBP,False,,False
+38611,458,TAMF01197i,Adventurous / FF 6 GBP,False,,False
+38612,458,TAMF01198,Cautious / FF 3 GBP,False,,False
+38613,458,TAMF01199i,Cautious / FF 3 GBP,False,,False
+38614,458,TAMF01200,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38615,458,TAMF01204,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38616,458,TAMF01205,Balanced / FF 4 GBP,False,,False
+38617,458,TAMF01206,Balanced EUR,False,,False
+38618,458,TAMF01208,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38619,458,TAMF01209,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38620,458,TAMF01214,Balanced / FF 4 GBP,False,,False
+38621,458,TAMF01220,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38622,458,TAMF01223,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38623,458,TAMF01224,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38624,458,TAMF01227,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38625,458,TAMF01231,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38626,458,TAMF01232i,Balanced / FF 4 GBP,False,,False
+38627,458,TAMF01233i,Balanced / FF 4 GBP,False,,False
+38628,458,TAMF01234i,Balanced / FF 4 GBP,False,,False
+38629,458,TAMF01235i,Balanced / FF 4 GBP,False,,False
+38630,458,TAMF01236,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38631,458,TAMF01237,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38632,458,TAMF01238,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38633,458,TAMF01240,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38634,458,TAMF01242,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38635,458,TAMF01243,Balanced / FF 4 GBP,False,,False
+38636,458,TAMF01246,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38637,458,TAMF01247,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38638,458,TAMF01251,Growth / FF 5 GBP,False,,False
+38639,458,TAMF01257,Focus Adventurous / FF Lite 6 GBP,True,"assetClass_Equity, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38640,458,TAMF01258,Growth / FF 5 GBP,False,,False
+38641,458,TAMF01259,Growth / FF 5 GBP,False,,False
+38642,458,TAMF01261,Focus Balanced USD,False,,False
+38643,458,TAMF01262,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38644,458,TAMF01263,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38645,458,TAMF01264,Balanced / FF 4 GBP,False,,False
+38646,458,TAMF01265,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38647,458,TAMF01267,Focus Balanced / FF Lite 4 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38648,458,TAMF01272,Balanced EUR,False,,False
+38649,458,TAMF01274i,Balanced / FF 4 GBP,False,,False
+38650,458,TAMF01276,Balanced / FF 4 GBP,False,,False
+38651,458,TAMF01279i,Balanced / FF 4 GBP,False,,False
+38652,458,TAMF01280,Cautious / FF 3 GBP,False,,False
+38653,458,TAMF01281i,Growth / FF 5 GBP,False,,False
+38654,458,TAMF01282i,Balanced / FF 4 GBP,False,,False
+38655,458,TAMF01285,Cautious / FF 3 GBP,False,,False
+38656,458,TAMF01285i,Cautious / FF 3 GBP,False,,False
+38657,458,TAMF01286i,Balanced / FF 4 GBP,False,,False
+38658,458,TAMF01287i,Balanced / FF 4 GBP,False,,False
+38659,458,TAMF01288i,Growth / FF 5 GBP,False,,False
+38660,458,TAMF01289i,Growth / FF 5 GBP,False,,False
+38661,458,TAMF01297i,Adventurous / FF 6 GBP,False,,False
+38662,458,TAMF01299,Balanced / FF 4 GBP,False,,False
+38663,458,TAMF01300,Balanced / FF 4 GBP,False,,False
+38664,458,TAMF01301,Adventurous / FF 6 GBP,False,,False
+38665,458,TAMF01302i,Adventurous / FF 6 GBP,False,,False
+38666,458,TAMF01304,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38667,458,TAMF01305,Balanced / FF 4 GBP,False,,False
+38668,458,TAMF01306,Balanced / FF 4 GBP,False,,False
+38669,458,TAMF01307i,Cautious / FF 3 GBP,False,,False
+38670,458,TAMF01308,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38671,458,TAMF01309,Balanced / FF 4 GBP,False,,False
+38672,458,TAMF01310i,Balanced / FF 4 GBP,False,,False
+38673,458,TAMF01311,Balanced / FF 4 GBP,False,,False
+38674,458,TAMF01312i,Balanced / FF 4 GBP,False,,False
+38675,458,TAMF01313i,Balanced / FF 4 GBP,False,,False
+38676,458,TAMF01314,Cautious EUR,False,,False
+38677,458,TAMF01315,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38678,458,TAMF01316i,Adventurous / FF 6 GBP,False,,False
+38679,458,TAMF01317,Adventurous / FF 6 GBP,False,,False
+38680,458,TAMF01318,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38681,458,TAMF01319,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38682,458,TAMF01320,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38683,458,TAMF01321i,Balanced / FF 4 GBP,False,,False
+38684,458,TAMF01322i,Balanced / FF 4 GBP,False,,False
+38685,458,TAMF01323,Focus Growth / FF Lite 5 GBP,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38686,458,TAMF01324,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38687,458,TAMF01327i,Balanced / FF 4 GBP,False,,False
+38688,458,TAMF01328,Balanced / FF 4 GBP,False,,False
+38689,458,TAMF01329,Focus Cautious AUD,False,,False
+38690,458,TAMF01330i,Balanced / FF 4 GBP,False,,False
+38691,458,TAMF01331,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38692,458,TAMF01332,Growth / FF 5 GBP,False,,False
+38693,458,TAMF01333,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38694,458,TAMF01334,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38695,458,TAMF01336,Defensive / FF 2 GBP,False,,False
+38696,458,TAMF01340,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38697,458,TAMF01343i,Balanced / FF 4 GBP,False,,False
+38698,458,TAMF01345,Balanced / FF 4 GBP,False,,False
+38699,458,TAMF01346i,Balanced / FF 4 GBP,False,,False
+38700,458,TAMF01347i,Growth / FF 5 GBP,False,,False
+38701,458,TAMF01349,Balanced / FF 4 GBP,False,,False
+38702,458,TAMF01350,Balanced / FF 4 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38703,458,TAMF01351,Balanced / FF 4 GBP,False,,False
+38704,458,TAMF01352,Balanced / FF 4 GBP,False,,False
+38705,458,TAMF01353AP,Balanced / FF 4 GBP,False,,False
+38706,458,TAMF01354,Growth / FF 5 GBP,False,,False
+38707,458,TAMF01358,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38708,458,TAMF01360,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38709,458,TAMF01362,Growth / FF 5 GBP (LifeCo Custody),False,,False
+38710,458,TAMF01364,Growth / FF 5 GBP,False,,False
+38711,458,TAMF01365,EU Cautious GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38712,458,TAMF01366,Balanced / FF 4 GBP,False,,False
+38713,458,TAMF01367,Balanced / FF 4 GBP,False,,False
+38714,458,TAMF01368,Balanced / FF 4 GBP,False,,False
+38715,458,TAMF01368i,Balanced / FF 4 GBP,False,,False
+38716,458,TAMF01370,Cautious / FF 3 GBP,False,,False
+38717,458,TAMF01371,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38718,458,TAMF01372,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38719,458,TAMF01373,Cautious / FF 3 GBP,False,,False
+38720,458,TAMF01374i,Growth / FF 5 GBP,False,,False
+38721,458,TAMF01378,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38722,458,TAMF01384i,Balanced / FF 4 GBP,False,,False
+38723,458,TAMF01385i,Balanced / FF 4 GBP,False,,False
+38724,458,TAMF01386i,Balanced / FF 4 GBP,False,,False
+38725,458,TAMF01387,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38726,458,TAMF01388,Balanced / FF 4 GBP,False,,False
+38727,458,TAMF01389i,Balanced / FF 4 GBP,False,,False
+38728,458,TAMF01390,Balanced / FF 4 GBP,False,,False
+38729,458,TAMF01391,Balanced / FF 4 GBP,False,,False
+38730,458,TAMF01391i,Balanced / FF 4 GBP,False,,False
+38731,458,TAMF01392,Balanced / FF 4 GBP (LifeCo Custody),False,,False
+38732,458,TAMF01393i,Defensive / FF 2 GBP,False,,False
+38733,458,TAMF01395,Balanced / FF 4 GBP,False,,False
+38734,458,TAMF01395i,Balanced / FF 4 GBP,False,,False
+38735,458,TAMF01396i,Balanced / FF 4 GBP,False,,False
+38736,458,TAMF01397i,Balanced / FF 4 GBP,False,,False
+38737,458,TAMF01398,Balanced / FF 4 GBP,False,,False
+38738,458,TAMF01399i,Cautious / FF 3 GBP,False,,False
+38739,458,TAMF01400,Growth / FF 5 GBP (LifeCo Custody),True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38740,458,TAMF01401,Cautious / FF 3 GBP,False,,False
+38741,458,TAMF01402,Balanced / FF 4 GBP (LifeCo Custody),True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38742,458,TAMF01403,Balanced / FF 4 GBP,False,,False
+38743,458,TAMF01404,Focus Cautious / FF Lite 3 GBP,True,", tracking error drift",False
+38744,458,TAMF01405,Balanced / FF 4 GBP,False,,False
+38745,458,TAMF01406,Balanced / FF 4 GBP,False,,False
+38746,458,TAMF01407i,Balanced / FF 4 GBP,False,,False
+38747,458,TAMF01408,Balanced / FF 4 GBP,False,,False
+38748,458,TAMF01409,Balanced / FF 4 GBP,False,,False
+38749,458,TAMF01410i,Balanced / FF 4 GBP,False,,False
+38750,458,TAMF01411,Balanced / FF 4 GBP,False,,False
+38751,458,TAMF01412i,Adventurous / FF 6 GBP,False,,False
+38752,458,TAMF01413i,Growth / FF 5 GBP,False,,False
+38753,458,TAMF01414i,Growth / FF 5 GBP,False,,False
+38754,458,TAMF01415,Defensive / FF 2 GBP,False,,False
+38755,458,TAMF01416,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38756,458,TAMF01417i,Balanced / FF 4 GBP,False,,False
+38757,458,TAMF01418i,Balanced / FF 4 GBP,False,,False
+38758,458,TAMF01419,Growth / FF 5 GBP,False,,False
+38759,458,TAMF01421,Focus Balanced / FF Lite 4 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38760,458,TAMF01424,Balanced / FF 4 GBP,False,,False
+38761,458,TAMF01424i,Balanced / FF 4 GBP,False,,False
+38762,458,TAMF01425,Balanced / FF 4 GBP,False,,False
+38763,458,TAMF01425i,Balanced / FF 4 GBP,False,,False
+38764,458,TAMF01426,Cautious / FF 3 GBP,False,,False
+38765,458,TAMF01428,Balanced / FF 4 GBP,False,,False
+38766,458,TAMF01429,ESG Growth GBP,False,,False
+38767,458,TAMF01431,Focus Balanced / FF Lite 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38768,458,TAMF01433,Focus Balanced / FF Lite 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38769,458,TAMF01434,Focus Balanced / FF Lite 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38770,458,TAMF01435,Focus Balanced / FF Lite 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38771,458,TAMF01436,Focus Balanced / FF Lite 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38772,458,TAMF01437,Focus Balanced / FF Lite 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38773,458,TAMF01439i,Balanced / FF 4 GBP,False,,False
+38774,458,TAMF01440,Focus Balanced / FF Lite 4 GBP,False,,False
+38775,458,TAMF051006,Focus Balanced / FF Lite 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38776,458,TAMF1037,Growth / FF 5 GBP,False,,False
+38777,458,TAMF1045i,Balanced / FF 4 GBP,False,,False
+38778,458,TAMF1046i,Balanced / FF 4 GBP,False,,False
+38779,458,TAMF1160AP,Cautious / FF 3 GBP,False,,False
+38780,458,TAMFF4002i,ESG Balanced GBP,False,,False
+38781,458,TAMFF4003i,Balanced / FF 4 GBP,False,,False
+38782,458,TAMFF4004i,Balanced / FF 4 GBP,False,,False
+38783,458,TAMFF4005i,Balanced / FF 4 GBP,False,,False
+38784,458,TAMFF4007i,Balanced / FF 4 GBP,False,,False
+38785,458,TAMFF4010i,Balanced / FF 4 GBP,False,,False
+38786,458,TAMFF4011,Balanced / FF 4 GBP,False,,False
+38787,458,TAMFF4011i,Balanced / FF 4 GBP,False,,False
+38788,458,TAMFF4013,Balanced / FF 4 GBP,False,,False
+38789,458,TAMFF4014i,Growth / FF 5 GBP,False,,False
+38790,458,TAMFF4015i,Balanced / FF 4 GBP,False,,False
+38791,458,TAMFF4016i,Growth / FF 5 GBP,False,,False
+38792,458,TAMFF4017i,Balanced / FF 4 GBP,False,,False
+38793,458,TAMFF4018i,Balanced / FF 4 GBP,False,,False
+38794,458,TAMFF4020i,Balanced / FF 4 GBP,False,,False
+38795,458,TAMFF4021i,Adventurous / FF 6 GBP,False,,False
+38796,458,TAMFF4022,Growth / FF 5 GBP,False,,False
+38797,458,TAMFF4023i,Balanced / FF 4 GBP,False,,False
+38798,458,TAMFF4024i,Balanced / FF 4 GBP,False,,False
+38799,458,TAMFF4029i,ESG Balanced GBP,False,,False
+38800,458,TAMFF4030i,Cautious / FF 3 GBP,False,,False
+38801,458,TAMFF4031i,Balanced / FF 4 GBP,False,,False
+38802,458,TAMFF4032i,Balanced / FF 4 GBP,False,,False
+38803,458,TAMFF4035,Growth / FF 5 GBP,False,,False
+38804,458,TAMFF4036,Growth / FF 5 GBP,False,,False
+38805,458,TAMFF4037i,Balanced / FF 4 GBP,False,,False
+38806,458,TAMFF4038i,Growth / FF 5 GBP,False,,False
+38807,458,TAMFF4039i,Growth / FF 5 GBP,False,,False
+38808,458,TAMFF4040,Adventurous / FF 6 GBP,False,,False
+38809,458,TAMFF4041,Balanced / FF 4 GBP,False,,False
+38810,458,TAMFF4042i,Growth / FF 5 GBP,False,,False
+38811,458,TAMFF4043i,Balanced / FF 4 GBP,False,,False
+38812,458,TAMFF4047i,Balanced / FF 4 GBP,False,,False
+38813,458,TAMFF4050,ESG Balanced GBP,False,,False
+38814,458,TAMFF4051,Balanced / FF 4 GBP,False,,False
+38815,458,TAMFF4052,Growth / FF 5 GBP,False,,False
+38816,458,TAMFF4055,Adventurous / FF 6 GBP,False,,False
+38817,458,TAMFF4060i,Growth / FF 5 GBP,False,,False
+38818,458,TAMFF4061,Balanced / FF 4 GBP,False,,False
+38819,458,TAMFF4062i,Growth / FF 5 GBP,False,,False
+38820,458,TAMFF4069,Adventurous / FF 6 GBP,False,,False
+38821,458,TAMFF4070,ESG Growth GBP,False,,False
+38822,458,TAMFF4073,Balanced / FF 4 GBP,False,,False
+38823,458,TAMFF4074,Growth / FF 5 GBP,False,,False
+38824,458,TAMFF4075i,Growth / FF 5 GBP,False,,False
+38825,458,TAMFF4077i,Balanced / FF 4 GBP,False,,False
+38826,458,TAMFF4078i,Growth / FF 5 GBP,False,,False
+38827,458,TAMFF4080,Balanced / FF 4 GBP,False,,False
+38828,458,TAMFF4081,Growth / FF 5 GBP,False,,False
+38829,458,TAMFF4082,ESG Balanced GBP,False,,False
+38830,458,TAMFF4083,Balanced / FF 4 GBP,False,,False
+38831,458,TAMFF4084,Balanced / FF 4 GBP,False,,False
+38832,458,TAMFF4085i,Balanced / FF 4 GBP,False,,False
+38833,458,TAMFF4086i,Balanced / FF 4 GBP,False,,False
+38834,458,TAMFF4087,Balanced / FF 4 GBP,False,,False
+38835,458,TAMFF4089,Cautious / FF 3 GBP,False,,False
+38836,458,TAMFF4092i,Balanced / FF 4 GBP,False,,False
+38837,458,TAMFF4093i,Balanced / FF 4 GBP,False,,False
+38838,458,TAMFF4098,Cautious / FF 3 GBP,False,,False
+38839,458,TAMFF4101,ESG Growth GBP,True,assetClass_Equity,False
+38840,458,TAMFF4102i,ESG Growth GBP,True,assetClass_Equity,False
+38841,458,TAMFF4109,ESG Balanced GBP,False,,False
+38842,458,TAMFF4110,Balanced / FF 4 GBP,False,,False
+38843,458,TAMFF4112i,Balanced / FF 4 GBP,False,,False
+38844,458,TAMFF4114i,Balanced / FF 4 GBP,False,,False
+38845,458,TAMFF4115,Adventurous / FF 6 GBP,False,,False
+38846,458,TAMFF4116,Balanced / FF 4 GBP,False,,False
+38847,458,TAMFF4117,Balanced / FF 4 GBP,False,,False
+38848,458,TAMFF4127,Adventurous / FF 6 GBP,False,,False
+38849,458,TAMFF4128i,ESG Adventurous GBP,False,,False
+38850,458,TAMFF4129,ESG Growth GBP,False,,False
+38851,458,TAMFF4133i,Balanced / FF 4 GBP,False,,False
+38852,458,TAMFF4134,Balanced / FF 4 GBP,False,,False
+38853,458,TAMFF4135i,Balanced / FF 4 GBP,False,,False
+38854,458,TAMFF4136,Balanced / FF 4 GBP,False,,False
+38855,458,TAMFF4137i,Balanced / FF 4 GBP,False,,False
+38856,458,TAMFF4139i,Cautious / FF 3 GBP,False,,False
+38857,458,TAMFF4140,Speculative / FF 7 GBP,False,,False
+38858,458,TAMFF4141i,Speculative / FF 7 GBP,False,,False
+38859,458,TAMFF4142i,Balanced / FF 4 GBP,False,,False
+38860,458,TAMFF4147,Balanced / FF 4 GBP,False,,False
+38861,458,TAMFF4151i,Balanced / FF 4 GBP,False,,False
+38862,458,TAMFF4152,Adventurous / FF 6 GBP,False,,False
+38863,458,TAMFF4153,Balanced / FF 4 GBP,False,,False
+38864,458,TAMFF4154,ESG Defensive GBP,False,,False
+38865,458,TAMFF4155i,ESG Defensive GBP,False,,False
+38866,458,TAMFF4156i,Cautious / FF 3 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38867,458,TAMFF4157i,Cautious / FF 3 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38868,458,TAMFF4158,ESG Balanced GBP,False,,False
+38869,458,TAMFF4159i,ESG Balanced GBP,False,,False
+38870,458,TAMFF4160,ESG Balanced GBP,False,,False
+38871,458,TAMFF4163,Balanced / FF 4 GBP,False,,False
+38872,458,TAMFF4164i,Balanced / FF 4 GBP,False,,False
+38873,458,TAMFF4165,ESG Growth GBP,False,,False
+38874,458,TAMFF4166,Growth / FF 5 GBP,False,,False
+38875,458,TAMFF4167,Balanced / FF 4 GBP,False,,False
+38876,458,TAMFF4168,Adventurous / FF 6 GBP,False,,False
+38877,458,TAMFF4169,Balanced / FF 4 GBP,False,,False
+38878,458,TAMFF4171,Balanced / FF 4 GBP,False,,False
+38879,458,TAMFF4174,Growth / FF 5 GBP,False,,False
+38880,458,TAMFF4176,Balanced / FF 4 GBP,False,,False
+38881,458,TAMFF4177i,Growth / FF 5 GBP,False,,False
+38882,458,TAMFF4179,Balanced / FF 4 GBP,False,,False
+38883,458,TAMFF4180,Balanced / FF 4 GBP,False,,False
+38884,458,TAMFF4181,Balanced / FF 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38885,458,TAMFF4182,ESG Growth GBP,False,,False
+38886,458,TAMFF4183i,ESG Growth GBP,False,,False
+38887,458,TAMFF4184,ESG Growth GBP,False,,False
+38888,458,TAMFF4185,Balanced / FF 4 GBP,False,,False
+38889,458,TAMFF4187,Balanced / FF 4 GBP,False,,False
+38890,458,TAMFF4188,Cautious / FF 3 GBP,False,,False
+38891,458,TAMFF4189i,Cautious / FF 3 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+38892,458,TAMFF4190i,Adventurous / FF 6 GBP,False,,False
+38893,458,TAMFF4191,Growth / FF 5 GBP,False,,False
+38894,458,TAMFF4192,ESG Growth GBP,False,,False
+38895,458,TAMFF4193,Growth / FF 5 GBP,False,,False
+38896,458,TAMFF4194,Balanced / FF 4 GBP,False,,False
+38897,458,TAMFF4195,Balanced / FF 4 GBP,False,,False
+38898,458,TAMFF4196i,Balanced / FF 4 GBP,False,,False
+38899,458,TAMFF4197i,Balanced / FF 4 GBP,False,,False
+38900,458,TAMFF4198i,Balanced / FF 4 GBP,False,,False
+38901,458,TAMFF4199,Growth / FF 5 GBP,False,,False
+38902,458,TAMFF4200,Growth / FF 5 GBP,False,,False
+38903,458,TAMFF4201,Growth / FF 5 GBP,False,,False
+38904,458,TAMFF4203AP,ESG Cautious GBP,True,", tracking error drift",False
+38905,458,TAMFF4203i,ESG Cautious GBP,True,", risk drift, tracking error drift",False
+38906,458,TAMFF4204,Growth / FF 5 GBP,False,,False
+38907,458,TAMFF4205,Growth / FF 5 GBP,False,,False
+38908,458,TAMFF4206,ESG Balanced GBP,False,,False
+38909,458,TAMFF4211,Balanced / FF 4 GBP,False,,False
+38910,458,TAMFF4212,Balanced / FF 4 GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+38911,458,TAMFF4213i,Balanced / FF 4 GBP,False,,False
+38912,458,TAMFF4214,Growth / FF 5 GBP,False,,False
+38913,458,TAMFF4215i,Growth / FF 5 GBP,False,,False
+38914,458,TAMFF4217,Growth / FF 5 GBP,False,,False
+38915,458,TAMFF4218,ESG Growth GBP,False,,False
+38916,458,TAMFF4219,ESG Growth GBP,False,,False
+38917,458,TAMFF4221i,Adventurous / FF 6 GBP,False,,False
+38918,458,TAMFF4222i,Balanced / FF 4 GBP,False,,False
+38919,458,TAMFF4223i,Growth / FF 5 GBP,False,,False
+38920,458,TAMFF4224i,Growth / FF 5 GBP,False,,False
+38921,458,TAMFF4226,Adventurous / FF 6 GBP,False,,False
+38922,458,TAMFF4228,Balanced / FF 4 GBP,False,,False
+38923,458,TAMFF4229i,Balanced / FF 4 GBP,False,,False
+38924,458,TAMFF4230i,Cautious / FF 3 GBP,False,,False
+38925,458,TAMFF4235,Balanced / FF 4 GBP,False,,False
+38926,458,TAMFF4236,Balanced / FF 4 GBP,False,,False
+38927,458,TAMFF4237,ESG Balanced GBP,False,,False
+38928,458,TAMFF4238i,Balanced / FF 4 GBP,False,,False
+38929,458,TAMFF4239,Growth / FF 5 GBP,False,,False
+38930,458,TAMFF4240,Balanced / FF 4 GBP,False,,False
+38931,458,TAMFF4241,Growth / FF 5 GBP,False,,False
+38932,458,TAMFF4242i,Balanced / FF 4 GBP,False,,False
+38933,458,TAMFF4243i,Balanced / FF 4 GBP,False,,False
+38934,458,TAMFF4245,Balanced / FF 4 GBP,False,,False
+38935,458,TAMFF4246,Balanced / FF 4 GBP,False,,False
+38936,458,TAMFF4247,ESG Cautious GBP,True,", tracking error drift",False
+38937,458,TAMFF4248i,Balanced / FF 4 GBP,False,,False
+38938,458,TAMFF4250,ESG Growth GBP,False,,False
+38939,458,TAMFF4251,Growth / FF 5 GBP,False,,False
+38940,458,TAMFF4252i,Adventurous / FF 6 GBP,False,,False
+38941,458,TAMFF4255,Growth / FF 5 GBP,False,,False
+38942,458,TAMFF4256,Balanced / FF 4 GBP,False,,False
+38943,458,TAMFF4258,Balanced / FF 4 GBP,False,,False
+38944,458,TAMFF4259,Balanced / FF 4 GBP,False,,False
+38945,458,TAMFF4261,Growth / FF 5 GBP,False,,False
+38946,458,TAMFF4262,Balanced / FF 4 GBP,False,,False
+38947,458,TAMFF4263i,Balanced / FF 4 GBP,False,,False
+38948,458,TAMFF4264,Adventurous / FF 6 GBP,False,,False
+38949,458,TAMFF4265i,Adventurous / FF 6 GBP,False,,False
+38950,458,TAMFF4268,Growth / FF 5 GBP,False,,False
+38951,458,TAMFF4269,ESG Balanced GBP,False,,False
+38952,458,TAMFF4270i,Balanced / FF 4 GBP,False,,False
+38953,458,TAMFF4271i,Balanced / FF 4 GBP,False,,False
+38954,458,TAMFF4274i,ESG Balanced GBP,False,,False
+38955,458,TAMFF4275,Balanced / FF 4 GBP,False,,False
+38956,458,TAMFF4276,Balanced / FF 4 GBP,False,,False
+38957,458,TAMFF4277i,ESG Balanced GBP,False,,False
+38958,458,TAMFF4278,Growth / FF 5 GBP,False,,False
+38959,458,TAMFF4280,Growth / FF 5 GBP,False,,False
+38960,458,TAMFF4283,Growth / FF 5 GBP,False,,False
+38961,458,TAMFF4284i,ESG Growth GBP,False,,False
+38962,458,TAMFF4285,Growth / FF 5 GBP,False,,False
+38963,458,TAMFF4286i,ESG Growth GBP,False,,False
+38964,458,TAMFF4288,Balanced / FF 4 GBP,False,,False
+38965,458,TAMFF4289,Growth / FF 5 GBP,False,,False
+38966,458,TAMFF4291,Balanced / FF 4 GBP,False,,False
+38967,458,TAMFF4292i,ESG Balanced GBP,False,,False
+38968,458,TAMFF4293,Balanced / FF 4 GBP,False,,False
+38969,458,TAMFF4294i,Balanced / FF 4 GBP,False,,False
+38970,458,TAMFF4297i,ESG Balanced GBP,False,,False
+38971,458,TAMFF4298,Growth / FF 5 GBP,False,,False
+38972,458,TAMFF4299,Speculative / FF 7 GBP,False,,False
+38973,458,TAMFF4300i,Adventurous / FF 6 GBP,False,,False
+38974,458,TAMFF4301i,Balanced / FF 4 GBP,False,,False
+38975,458,TAMFF4305i,Growth / FF 5 GBP,False,,False
+38976,458,TAMFF4306,Balanced / FF 4 GBP,False,,False
+38977,458,TAMFF4307i,Balanced / FF 4 GBP,False,,False
+38978,458,TAMFF4308i,Balanced / FF 4 GBP,False,,False
+38979,458,TAMFF4310i,Balanced / FF 4 GBP,False,,False
+38980,458,TAMFF4311i,Balanced / FF 4 GBP,False,,False
+38981,458,TAMFF4312,Growth / FF 5 GBP,False,,False
+38982,458,TAMFF4313,Balanced / FF 4 GBP,False,,False
+38983,458,TAMFF4315,Adventurous / FF 6 GBP,False,,False
+38984,458,TAMFF4316i,Growth / FF 5 GBP,False,,False
+38985,458,TAMFF4317,Growth / FF 5 GBP,False,,False
+38986,458,TAMFF4318,Growth / FF 5 GBP,False,,False
+38987,458,TAMFF4320,Growth / FF 5 GBP,False,,False
+38988,458,TAMFF4321,Growth / FF 5 GBP,False,,False
+38989,458,TAMFF4322,Growth / FF 5 GBP,False,,False
+38990,458,TAMFF4325,ESG Growth GBP,False,,False
+38991,458,TAMFF4326i,Growth / FF 5 GBP,False,,False
+38992,458,TAMFF4327,Adventurous / FF 6 GBP,False,,False
+38993,458,TAMFF4329,Balanced / FF 4 GBP,False,,False
+38994,458,TAMFF4330i,Growth / FF 5 GBP,False,,False
+38995,458,TAMFF4331i,Growth / FF 5 GBP,False,,False
+38996,458,TAMFF4332i,Growth / FF 5 GBP,False,,False
+38997,458,TAMFF4334,Growth / FF 5 GBP,False,,False
+38998,458,TAMFF4335i,Balanced / FF 4 GBP,False,,False
+38999,458,TAMFF4337i,Cautious / FF 3 GBP,False,,False
+39000,458,TAMFF4338i,Balanced / FF 4 GBP,False,,False
+39001,458,TAMFF4341i,Cautious / FF 3 GBP,False,,False
+39002,458,TAMFF4342i,Balanced / FF 4 GBP,False,,False
+39003,458,TAMFF4343,Adventurous / FF 6 GBP,False,,False
+39004,458,TAMFF4344i,Adventurous / FF 6 GBP,False,,False
+39005,458,TAMFF4345i,Balanced / FF 4 GBP,False,,False
+39006,458,TAMFF4346i,Growth / FF 5 GBP,False,,False
+39007,458,TAMFF4347i,Balanced / FF 4 GBP,False,,False
+39008,458,TAMFF4348i,Balanced / FF 4 GBP,False,,False
+39009,458,TAMFF4349,Balanced / FF 4 GBP,False,,False
+39010,458,TAMFF4352,Speculative / FF 7 GBP,False,,False
+39011,458,TAMFF4353,Growth / FF 5 GBP,False,,False
+39012,458,TAMFF4355,Balanced / FF 4 GBP,False,,False
+39013,458,TAMFF4356,Balanced / FF 4 GBP,False,,False
+39014,458,TAMFF4357i,Growth / FF 5 GBP,False,,False
+39015,458,TAMFF4358,Growth / FF 5 GBP,False,,False
+39016,458,TAMFF4360i,Cautious / FF 3 GBP,False,,False
+39017,458,TAMFF4361i,ESG Growth GBP,False,,False
+39018,458,TAMFF4362i,ESG Growth GBP,False,,False
+39019,458,TAMFF4364,Growth / FF 5 GBP,False,,False
+39020,458,TAMFF4368,Growth / FF 5 GBP,False,,False
+39021,458,TAMFF4370,Growth / FF 5 GBP,False,,False
+39022,458,TAMFF4371,Growth / FF 5 GBP,False,,False
+39023,458,TAMFF4372,Balanced / FF 4 GBP,False,,False
+39024,458,TAMFF4373,ESG Growth GBP,False,,False
+39025,458,TAMFF4374,ESG Growth GBP,False,,False
+39026,458,TAMFF4375,Growth / FF 5 GBP,False,,False
+39027,458,TAMFF4379,Balanced / FF 4 GBP,False,,False
+39028,458,TAMFF4380i,ESG Balanced GBP,False,,False
+39029,458,TAMFF4381,Balanced / FF 4 GBP,False,,False
+39030,458,TAMFF4382i,ESG Growth GBP,True,assetClass_Equity,False
+39031,458,TAMFF4383,ESG Growth GBP,True,assetClass_Equity,False
+39032,458,TAMFF4384,Growth / FF 5 GBP,False,,False
+39033,458,TAMFF4385,Balanced / FF 4 GBP,False,,False
+39034,458,TAMFF4386i,ESG Balanced GBP,False,,False
+39035,458,TAMFF4390,Adventurous / FF 6 GBP,False,,False
+39036,458,TAMFF4395i,Growth / FF 5 GBP,False,,False
+39037,458,TAMFF4396,Growth / FF 5 GBP,False,,False
+39038,458,TAMFF4399,Growth / FF 5 GBP,True,", risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+39039,458,TAMFF4400,Growth / FF 5 GBP,False,,False
+39040,458,TAMFF4401i,ESG Balanced GBP,False,,False
+39041,458,TAMFF4402i,Balanced / FF 4 GBP,False,,False
+39042,458,TAMFF4403i,Balanced / FF 4 GBP,False,,False
+39043,458,TAMFF4404i,Balanced / FF 4 GBP,False,,False
+39044,458,TAMFF4405i,Balanced / FF 4 GBP,False,,False
+39045,458,TAMFF4406,Growth / FF 5 GBP,False,,False
+39046,458,TAMFF4407i,Growth / FF 5 GBP,False,,False
+39047,458,TAMFF4408,Adventurous / FF 6 GBP,False,,False
+39048,458,TAMFF4409i,Growth / FF 5 GBP,False,,False
+39049,458,TAMFF4410,Balanced / FF 4 GBP,False,,False
+39050,458,TAMFF4412,Balanced / FF 4 GBP,False,,False
+39051,458,TAMFF4413i,Balanced / FF 4 GBP,False,,False
+39052,458,TAMFF4414i,Growth / FF 5 GBP,False,,False
+39053,458,TAMFF4415i,ESG Balanced GBP,False,,False
+39054,458,TAMFF4417,ESG Balanced GBP,False,,False
+39055,458,TAMFF4418i,ESG Balanced GBP,False,,False
+39056,458,TAMFF4419,Balanced / FF 4 GBP,False,,False
+39057,458,TAMFF4420,ESG Growth GBP,False,,False
+39058,458,TAMFF4421,Growth / FF 5 GBP,False,,False
+39059,458,TAMFF4422i,Growth / FF 5 GBP,False,,False
+39060,458,TAMFF4423,Balanced / FF 4 GBP,False,,False
+39061,458,TAMFF4424i,Balanced / FF 4 GBP,False,,False
+39062,458,TAMFF4425,Balanced / FF 4 GBP,False,,False
+39063,458,TAMFF4426i,Adventurous / FF 6 GBP,False,,False
+39064,458,TAMFF4427i,Balanced / FF 4 GBP,False,,False
+39065,458,TAMFF4428,Balanced / FF 4 GBP,False,,False
+39066,458,TAMFF4429,Balanced / FF 4 GBP,False,,False
+39067,458,TAMFF4430,Balanced / FF 4 GBP,False,,False
+39068,458,TAMFF4431,Growth / FF 5 GBP,False,,False
+39069,458,TAMFF4432,Growth / FF 5 GBP,False,,False
+39070,458,TAMFF4433i,Adventurous / FF 6 GBP,False,,False
+39071,458,TAMFF4434,Adventurous / FF 6 GBP,False,,False
+39072,458,TAMFF4435i,Adventurous / FF 6 GBP,False,,False
+39073,458,TAMFF4436,ESG Balanced GBP,False,,False
+39074,458,TAMFF4438,Balanced / FF 4 GBP,False,,False
+39075,458,TAMFF4439i,Balanced / FF 4 GBP,False,,False
+39076,458,TAMFF4443,Balanced / FF 4 GBP,False,,False
+39077,458,TAMFF4444,Growth / FF 5 GBP,False,,False
+39078,458,TAMFF4445,Growth / FF 5 GBP,False,,False
+39079,458,TAMFF4448,Growth / FF 5 GBP,False,,False
+39080,458,TAMFF4449,ESG Growth GBP,False,,False
+39081,458,TAMFF4450,Balanced / FF 4 GBP,False,,False
+39082,458,TAMFF4453i,Growth / FF 5 GBP,False,,False
+39083,458,TAMFF4454,ESG Balanced GBP,False,,False
+39084,458,TAMFF4455,Growth / FF 5 GBP,False,,False
+39085,458,TAMFF4457,Growth / FF 5 GBP,False,,False
+39086,458,TAMFF4458i,Balanced / FF 4 GBP,False,,False
+39087,458,TAMFF4459i,ESG Balanced GBP,False,,False
+39088,458,TAMFF4461,Cautious / FF 3 GBP,False,,False
+39089,458,TAMFF4462,Balanced / FF 4 GBP,False,,False
+39090,458,TAMFF4463,Growth / FF 5 GBP,False,,False
+39091,458,TAMFF4464i,Adventurous / FF 6 GBP,False,,False
+39092,458,TAMFF4467i,Growth / FF 5 GBP,False,,False
+39093,458,TAMFF4468i,Growth / FF 5 GBP,False,,False
+39094,458,TAMFF4469,Adventurous / FF 6 GBP,False,,False
+39095,458,TAMFF4470,Growth / FF 5 GBP,False,,False
+39096,458,TAMFF4471,Growth / FF 5 GBP,False,,False
+39097,458,TAMFF4472,Growth / FF 5 GBP,False,,False
+39098,458,TAMFF4473i,Growth / FF 5 GBP,False,,False
+39099,458,TAMFF4474i,Growth / FF 5 GBP,False,,False
+39100,458,TAMFF4478,Balanced / FF 4 GBP,False,,False
+39101,458,TAMFF4479i,Growth / FF 5 GBP,False,,False
+39102,458,TAMFF4481i,Growth / FF 5 GBP,False,,False
+39103,458,TAMFF4482i,Balanced / FF 4 GBP,False,,False
+39104,458,TAMFF4483i,Balanced / FF 4 GBP,False,,False
+39105,458,TAMFF4485,Growth / FF 5 GBP,False,,False
+39106,458,TAMFF4486,Balanced / FF 4 GBP,False,,False
+39107,458,TAMFF4487i,Cautious / FF 3 GBP,False,,False
+39108,458,TAMFF4488i,Balanced / FF 4 GBP,False,,False
+39109,458,TAMFF4489,Balanced / FF 4 GBP,False,,False
+39110,458,TAMFF4490i,ESG Balanced GBP,False,,False
+39111,458,TAMFF4491i,Growth / FF 5 GBP,False,,False
+39112,458,TAMFF4492,Balanced / FF 4 GBP,False,,False
+39113,458,TAMFF4493i,Growth / FF 5 GBP,False,,False
+39114,458,TAMFF4494,Growth / FF 5 GBP,False,,False
+39115,458,TAMFF4495,Growth / FF 5 GBP,False,,False
+39116,458,TAMFF4496,Balanced / FF 4 GBP,False,,False
+39117,458,TAMFF4497i,Balanced / FF 4 GBP,False,,False
+39118,458,TAMFF4498,Growth / FF 5 GBP,False,,False
+39119,458,TAMFF4499i,Balanced / FF 4 GBP,False,,False
+39120,458,TAMFF4500i,Balanced / FF 4 GBP,False,,False
+39121,458,TAMFF4501i,Balanced / FF 4 GBP,False,,False
+39122,458,TAMFF4502,Growth / FF 5 GBP,False,,False
+39123,458,TAMFF4503,Growth / FF 5 GBP,False,,False
+39124,458,TAMFF4504,Growth / FF 5 GBP,False,,False
+39125,458,TAMFF4507,Speculative / FF 7 GBP,False,,False
+39126,458,TAMFF4508,Cautious / FF 3 GBP,False,,False
+39127,458,TAMFF4509,Balanced / FF 4 GBP,False,,False
+39128,458,TAMFF4510,Balanced / FF 4 GBP,False,,False
+39129,458,TAMFF4511,Balanced / FF 4 GBP,False,,False
+39130,458,TAMFF4512,ESG Adventurous GBP,False,,False
+39131,458,TAMFF4513,Growth / FF 5 GBP,False,,False
+39132,458,TAMFF4514,Balanced / FF 4 GBP,False,,False
+39133,458,TAMFF4515,Balanced / FF 4 GBP,False,,False
+39134,458,TAMFF4516,Balanced / FF 4 GBP,False,,False
+39135,458,TAMFF4516i,Balanced / FF 4 GBP,False,,False
+39136,458,TAMFF4517i,Cautious / FF 3 GBP,False,,False
+39137,458,TAMFF4518i,Cautious / FF 3 GBP,False,,False
+39138,458,TAMFF4519,ESG Cautious GBP,False,,False
+39139,458,TAMFF4520,Growth / FF 5 GBP,False,,False
+39140,458,TAMFF4523,Balanced / FF 4 GBP,False,,False
+39141,458,TAMFF4524,Balanced / FF 4 GBP,False,,False
+39142,458,TAMFF4525,Balanced / FF 4 GBP,False,,False
+39143,458,TAMFF4526,Growth / FF 5 GBP,False,,False
+39144,458,TAMFF4527,Adventurous / FF 6 GBP,False,,False
+39145,458,TAMFF4529,Balanced / FF 4 GBP,False,,False
+39146,458,TAMFF4530,Cautious / FF 3 GBP,False,,False
+39147,458,TAMFF4531,Growth / FF 5 GBP,False,,False
+39148,458,TAMFF4532,Growth / FF 5 GBP,False,,False
+39149,458,TAMFF4533i,Growth / FF 5 GBP,False,,False
+39150,458,TAMFF4534,Growth / FF 5 GBP,False,,False
+39151,458,TAMFF4535,Balanced / FF 4 GBP,False,,False
+39152,458,TAMFF4536i,Balanced / FF 4 GBP,False,,False
+39153,458,TAMFF4539,Growth / FF 5 GBP,False,,False
+39154,458,TAMFF4540i,Balanced / FF 4 GBP,False,,False
+39155,458,TAMFF4541i,Balanced / FF 4 GBP,False,,False
+39156,458,TAMFF4542,Adventurous / FF 6 GBP,False,,False
+39157,458,TAMFF4546i,ESG Balanced GBP,False,,False
+39158,458,TAMFF4547i,ESG Cautious GBP,False,,False
+39159,458,TAMFF4548,ESG Balanced GBP,False,,False
+39160,458,TAMFF4549,Balanced / FF 4 GBP,False,,False
+39161,458,TAMFF4550,Growth / FF 5 GBP,False,,False
+39162,458,TAMFF4551i,Balanced / FF 4 GBP,False,,False
+39163,458,TAMFF4552i,Balanced / FF 4 GBP,False,,False
+39164,458,TAMFF4554,Balanced / FF 4 GBP,False,,False
+39165,458,TAMFF4555,Cautious / FF 3 GBP,False,,False
+39166,458,TAMFF4556,Balanced / FF 4 GBP,False,,False
+39167,458,TAMFF4557i,Adventurous / FF 6 GBP,False,,False
+39168,458,TAMFF4558i,Adventurous / FF 6 GBP,False,,False
+39169,458,TAMFF4559,Balanced / FF 4 GBP,False,,False
+39170,458,TAMFF4560,Growth / FF 5 GBP,False,,False
+39171,458,TAMFF4561,Growth / FF 5 GBP,False,,False
+39172,458,TAMFF4562,Cautious / FF 3 GBP,False,,False
+39173,458,TAMFF4563,Adventurous / FF 6 GBP,False,,False
+39174,458,TAMFF4564,Growth / FF 5 GBP,False,,False
+39175,458,TAMFF4565i,Cautious / FF 3 GBP,False,,False
+39176,458,TAMFF4566i,Cautious / FF 3 GBP,False,,False
+39177,458,TAMFF4568,Balanced / FF 4 GBP,False,,False
+39178,458,TAMFF4569,Balanced / FF 4 GBP,False,,False
+39179,458,TAMFF4574,Adventurous / FF 6 GBP,False,,False
+39180,458,TAMFF4575,Cautious / FF 3 GBP,False,,False
+39181,458,TAMFF4576,Cautious / FF 3 GBP,False,,False
+39182,458,TAMFF4577i,Growth / FF 5 GBP,False,,False
+39183,458,TAMFF4578,Growth / FF 5 GBP,False,,False
+39184,458,TAMFF4579i,Growth / FF 5 GBP,False,,False
+39185,458,TAMFF4580i,Balanced / FF 4 GBP,False,,False
+39186,458,TAMFF4581,Balanced / FF 4 GBP,False,,False
+39187,458,TAMFF4582,Balanced / FF 4 GBP (LifeCo Custody),True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+39188,458,TAMFF4583,Growth / FF 5 GBP,False,,False
+39189,458,TAMFF4584,Balanced / FF 4 GBP,False,,False
+39190,458,TAMFF4585,Growth / FF 5 GBP,False,,False
+39191,458,TAMFF4586i,Cautious / FF 3 GBP,False,,False
+39192,458,TAMFF4587i,Cautious / FF 3 GBP,False,,False
+39193,458,TAMFF4588i,Balanced / FF 4 GBP,False,,False
+39194,458,TAMFF4589i,Balanced / FF 4 GBP,False,,False
+39195,458,TAMFF4590,Balanced / FF 4 GBP,False,,False
+39196,458,TAMFF4591i,Balanced / FF 4 GBP,False,,False
+39197,458,TAMFF4592,Cautious / FF 3 GBP,True,", tracking error drift",False
+39198,458,TAMFF4593i,Adventurous / FF 6 GBP,False,,False
+39199,458,TAMFF4594,Balanced / FF 4 GBP,False,,False
+39200,458,TAMFF4595i,Balanced / FF 4 GBP,False,,False
+39201,458,TAMFF4596,Growth / FF 5 GBP,False,,False
+39202,458,TAMFF4597,Cautious / FF 3 GBP,False,,False
+39203,458,TAMFF4598,Cautious / FF 3 GBP,False,,False
+39204,458,TAMFF4600,Balanced / FF 4 GBP,False,,False
+39205,458,TAMFF4600A,Cautious / FF 3 GBP,False,,False
+39206,458,TAMFF516AP,Balanced / FF 4 GBP,False,,False
+39207,458,TAMGROWTHICAV,TAM HIGHER GROWTH - UCITS ICAV,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+39208,458,TAMGRWICAV,TAM HIGHER GROWTH - UCITS ICAV,True,", tracking error drift, non strategy volatility drift, non strategy assets drift",False
+39209,458,TAMLIF635TA,Adventurous / FF 6 GBP,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+39210,458,TAMLIF646C,Defensive / FF 2 GBP,True,", risk drift, tracking error drift",False
+39211,458,TAMLIF646CA,Adventurous / FF 6 GBP,False,,False
+39212,458,TAMLIF760,Cautious EUR,False,,False
+39213,458,TAMLIF760A,Premier Cautious USD,True,", tracking error drift",False
+39214,458,TAMMODERATEICAV,TAM MODERATE - UCITS ICAV,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+39215,458,TAMMODICAV,TAM MODERATE - UCITS ICAV,True,"assetClass_Equity, risk drift, tracking error drift, non strategy volatility drift, non strategy assets drift",False
+39216,458,TAP03002,Passive Balanced GBP,False,,False
+39217,458,TAP03003,Passive Balanced GBP,True,", tracking error drift",False
+39218,458,TAP03005,Passive Growth GBP,False,,False
+39219,458,TAP03006,Passive Balanced GBP,True,"assetClass_Equity, risk drift, tracking error drift",False
+39220,458,TAP03007,Passive Adventurous GBP,False,,False
+39221,458,TAP03008,Passive Growth GBP,False,,False
+39222,458,TAP03013,Passive Balanced GBP,False,,False
+39223,458,TAP03015,Passive Cautious GBP,True,", tracking error drift",False
+39224,458,TAP03016,Passive Balanced GBP,False,,False
+39225,458,TAP03017,Passive Balanced GBP,True,", tracking error drift",False
+39226,458,TAP03024,Passive Growth GBP,False,,False
+39227,458,TAP03025,Passive Cautious GBP,True,", risk drift, tracking error drift",False
+39228,458,TAP03026,Passive Growth GBP,False,,False
+39229,458,TAP03033,Passive Growth GBP,False,,False
+39230,458,TAP03034,Passive Growth GBP,False,,False
+39231,458,TAP03038,Passive Cautious GBP,True,", tracking error drift",False
+39232,458,TAP03039,Passive Cautious GBP,True,", tracking error drift",False
+39233,458,TAP03042,Passive Cautious GBP,True,", tracking error drift",False
+39234,458,TAP03044,Passive Balanced GBP,True,", tracking error drift",False
+39235,458,TAP03046,Passive Cautious GBP,True,", risk drift, tracking error drift",False
+39236,458,TAW000003,Balanced EUR,False,,False
+39237,458,TAW000005,Adventurous EUR,False,,False
+39238,458,VFS - GU001,Growth USD,False,,False
